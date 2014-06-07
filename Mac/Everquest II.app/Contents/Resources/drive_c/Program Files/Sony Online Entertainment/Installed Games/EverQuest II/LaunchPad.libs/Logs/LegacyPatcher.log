@@ -1,0 +1,114 @@
+2014-06-08	00:50:51		1402181451	28	4	4333625526	SetLegacyPatcherDllFilepath - Process parent directory location, filepath=C:/Program Files/Sony Online Entertainment/Installed Games/npsoeact.dll.
+2014-06-08	00:50:51		1402181451	29	4	4333625526	GetPluginUpdateFolder - windows version major=5, minor=1.
+2014-06-08	00:50:51		1402181451	30	4	4333625527	SetLegacyPatcherDllFilepath - Patcher location set from system file path, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll.
+2014-06-08	00:50:51		1402181451	31	4	4333625527	SetLegacyPatcherDllFilepath - Patcher location set from system file path exists, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll
+2014-06-08	00:50:51		1402181451	32	4	4333625527	SetLegacyPatcherDllFilepath - Patcher dll location set, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll.
+2014-06-08	00:50:51		1402181451	33	4	4333625527	LoadLegacyIniFiles - browserUrl=.
+2014-06-08	00:50:51		1402181451	34	4	4333625527	LoadLegacyIniFiles - Created browser url=https://lp.soe.com/eq2/live/?t=43336.
+2014-06-08	00:50:51		1402181451	35	4	4333625527	LoadLegacyIniFiles - legacy command line before conversion, commandline=locale=en_US
+2014-06-08	00:50:51		1402181451	36	4	4333625527	recap=recap.station.sony.com
+2014-06-08	00:50:51		1402181451	37	4	4333625527	loggingLevel=major
+2014-06-08	00:50:51		1402181451	38	4	4333625527	recapLevel=warnings
+2014-06-08	00:50:51		1402181451	39	4	4333625527	url=https://lp.soe.com/eq2/live/?t=43336
+2014-06-08	00:50:51		1402181451	40	4	4333625527	updateURL=http://lp.soe.com/static/plugin/ActionVersion.txt
+2014-06-08	00:50:51		1402181451	41	4	4333625527	server=https://lp.soe.com/
+2014-06-08	00:50:51		1402181451	42	4	4333625527	digestURL=http://manifest.patch.station.sony.com/patch/sha/manifest/lp4/live/gamelauncher/eq2/live.sha.soe
+2014-06-08	00:50:51		1402181451	43	4	4333625527	selfPatch=1
+2014-06-08	00:50:51		1402181451	44	4	4333625527	width=917
+2014-06-08	00:50:51		1402181451	45	4	4333625528	height=638
+2014-06-08	00:50:51		1402181451	46	4	4333625528	id=eq2
+2014-06-08	00:50:51		1402181451	47	4	4333625528	options=
+2014-06-08	00:50:51		1402181451	48	4	4333625528	region=
+2014-06-08	00:50:51		1402181451	49	4	4333625528	campaignID=
+2014-06-08	00:50:51		1402181451	50	4	4333625528	promoID=
+2014-06-08	00:50:51		1402181451	51	4	4333625528	autoplay=
+2014-06-08	00:50:51		1402181451	52	4	4333625528	launchArgs=
+2014-06-08	00:50:51		1402181451	53	4	4333625528	appName=EverQuest II
+2014-06-08	00:50:51		1402181451	54	4	4333625528	appShortName=
+2014-06-08	00:50:51		1402181451	55	4	4333625528	appIcon=EQII.ico
+2014-06-08	00:50:51		1402181451	56	4	4333625528	frame=0
+2014-06-08	00:50:51		1402181451	57	4	4333625528	game=
+2014-06-08	00:50:51		1402181451	58	4	4333625528	queryString=
+2014-06-08	00:50:51		1402181451	59	4	4333625528	environment=live
+2014-06-08	00:50:51		1402181451	60	4	4333625528	forceCrash=0
+2014-06-08	00:50:51		1402181451	61	4	4333625528	setLoc=1
+2014-06-08	00:50:51		1402181451	62	4	4333625528	
+[Logging]
+2014-06-08	00:50:51		1402181451	63	4	4333625528	Address=
+2014-06-08	00:50:51		1402181451	64	4	4333625528	
+[CrashReporter]
+2014-06-08	00:50:51		1402181451	65	4	4333625528	Address=recap2.freerealms.net
+2014-06-08	00:50:51		1402181451	66	4	4333625528	
+
+2014-06-08	00:50:51		1402181451	67	4	4333625528	Setting legacy ini entry, legacyEntry=width, section=Display, key=WindowWidth, value=917.
+2014-06-08	00:50:51		1402181451	68	4	4333625528	Setting legacy ini entry, legacyEntry=height, section=Display, key=WindowHeight, value=638.
+2014-06-08	00:50:51		1402181451	69	4	4333625528	Setting legacy ini entry, legacyEntry=locale, section=WebBrowser, key=LocaleOverride, value=en_US.
+2014-06-08	00:50:51		1402181451	70	4	4333625528	Setting legacy ini entry, legacyEntry=url, section=WebBrowser, key=LaunchUrl, value=https://lp.soe.com/eq2/live/?t=43336.
+2014-06-08	00:50:51		1402181451	71	4	4333625528	Setting legacy ini entry, legacyEntry=appIcon, section=Theme, key=IconFilename, value=EQII.ico.
+2014-06-08	00:50:51		1402181451	72	4	4333625528	Setting legacy ini entry, legacyEntry=appName, section=Theme, key=WindowTitle, value=EverQuest II.
+2014-06-08	00:50:51		1402181451	73	4	4333625528	Setting legacy ini entry, legacyEntry=setLoc, section=System, key=LegacySetLoc, value=1.
+2014-06-08	00:50:51		1402181451	74	4	4333625528	Setting legacy ini entry, legacyEntry=id, section=, key=GameCode, value=eq2.
+2014-06-08	00:50:51		1402181451	75	4	4333625528	LoadLegacyIniFiles - legacy command line after conversion, commandline=locale=en_US
+2014-06-08	00:50:51		1402181451	76	4	4333625528	recap=recap.station.sony.com
+2014-06-08	00:50:51		1402181451	77	4	4333625528	loggingLevel=major
+2014-06-08	00:50:51		1402181451	78	4	4333625528	recapLevel=warnings
+2014-06-08	00:50:51		1402181451	79	4	4333625528	url=https://lp.soe.com/eq2/live/?t=43336
+2014-06-08	00:50:51		1402181451	80	4	4333625528	updateURL=http://lp.soe.com/static/plugin/ActionVersion.txt
+2014-06-08	00:50:51		1402181451	81	4	4333625528	server=https://lp.soe.com/
+2014-06-08	00:50:51		1402181451	82	4	4333625528	digestURL=http://manifest.patch.station.sony.com/patch/sha/manifest/lp4/live/gamelauncher/eq2/live.sha.soe
+2014-06-08	00:50:51		1402181451	83	4	4333625528	selfPatch=1
+2014-06-08	00:50:51		1402181451	84	4	4333625528	width=917
+2014-06-08	00:50:51		1402181451	85	4	4333625528	height=638
+2014-06-08	00:50:51		1402181451	86	4	4333625528	id=eq2
+2014-06-08	00:50:51		1402181451	87	4	4333625528	options=
+2014-06-08	00:50:51		1402181451	88	4	4333625528	region=
+2014-06-08	00:50:51		1402181451	89	4	4333625528	campaignID=
+2014-06-08	00:50:51		1402181451	90	4	4333625528	promoID=
+2014-06-08	00:50:51		1402181451	91	4	4333625528	autoplay=
+2014-06-08	00:50:51		1402181451	92	4	4333625528	launchArgs=
+2014-06-08	00:50:51		1402181451	93	4	4333625528	appName=EverQuest II
+2014-06-08	00:50:51		1402181451	94	4	4333625528	appShortName=
+2014-06-08	00:50:51		1402181451	95	4	4333625528	appIcon=EQII.ico
+2014-06-08	00:50:51		1402181451	96	4	4333625528	frame=0
+2014-06-08	00:50:51		1402181451	97	4	4333625528	game=
+2014-06-08	00:50:51		1402181451	98	4	4333625528	queryString=
+2014-06-08	00:50:51		1402181451	99	4	4333625528	environment=live
+2014-06-08	00:50:51		1402181451	100	4	4333625529	forceCrash=0
+2014-06-08	00:50:51		1402181451	101	4	4333625529	setLoc=1
+2014-06-08	00:50:51		1402181451	102	4	4333625529	GameCode=eq2
+2014-06-08	00:50:51		1402181451	103	4	4333625529	
+[Logging]
+2014-06-08	00:50:51		1402181451	104	4	4333625529	Address=
+2014-06-08	00:50:51		1402181451	105	4	4333625529	
+[CrashReporter]
+2014-06-08	00:50:51		1402181451	106	4	4333625529	Address=recap2.freerealms.net
+2014-06-08	00:50:51		1402181451	107	4	4333625529	
+[Display]
+2014-06-08	00:50:51		1402181451	108	4	4333625529	WindowWidth=917
+2014-06-08	00:50:51		1402181451	109	4	4333625529	WindowHeight=638
+2014-06-08	00:50:51		1402181451	110	4	4333625529	
+[WebBrowser]
+2014-06-08	00:50:51		1402181451	111	4	4333625529	LocaleOverride=en_US
+2014-06-08	00:50:51		1402181451	112	4	4333625529	LaunchUrl=https://lp.soe.com/eq2/live/?t=43336
+2014-06-08	00:50:51		1402181451	113	4	4333625529	
+[Theme]
+2014-06-08	00:50:51		1402181451	114	4	4333625529	IconFilename=EQII.ico
+2014-06-08	00:50:51		1402181451	115	4	4333625529	WindowTitle=EverQuest II
+2014-06-08	00:50:51		1402181451	116	4	4333625529	
+[System]
+2014-06-08	00:50:51		1402181451	117	4	4333625529	LegacySetLoc=1
+2014-06-08	00:50:51		1402181451	118	4	4333625529	
+
+2014-06-08	00:50:51		1402181451	125	4	4333625581	UpdatePatcherDll - Will check for a patcher dll update, name=npsoeact.dll, location=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll.
+2014-06-08	00:50:51		1402181451	126	4	4333625581	Downloading patcher version file from the web, url=http://lp.soe.com/static/plugin/ActionVersion.txt.
+2014-06-08	00:50:51		1402181451	135	4	4333626330	OnGetResult - url=http://lp.soe.com/static/plugin/ActionVersion.txt?t=1402181451, requestId=0, responseCode=200.
+2014-06-08	00:50:51		1402181451	136	4	4333626331	Successfully downloaded the patcher dll version file, url=http://lp.soe.com/static/plugin/ActionVersion.txt?t=1402181451, dataLength=3.
+2014-06-08	00:50:51		1402181451	137	4	4333626332	We have the latest version, latestVersion=183, currentVersion=183.
+2014-06-08	00:50:51		1402181451	139	4	4333626332	Initialize - Loading dll, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll.
+2014-06-08	00:50:51		1402181451	140	4	4333626334	Initialize - Loaded dll successfully, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll.
+2014-06-08	00:50:51		1402181451	141	4	4333626334	GetPluginVersion - Invoked.
+2014-06-08	00:50:51		1402181451	142	4	4333626334	Initialize - Success, versionCode=183, versionString=0.0.0.183
+2014-06-08	00:50:51		1402181451	146	4	4333626334	PatchLaunchpad - will patch launchpad (self) files, url=http://manifest.patch.station.sony.com/patch/sha/manifest/lp4/live/gamelauncher/eq2/live.sha.soe.
+2014-06-08	00:51:08		1402181451	149	4	4333643018	PatchLaunchpad - launchpad patch complete.
+2014-06-08	00:51:08		1402181451	155	4	4333643018	Total patcher dll version file update timeMs=17437.
+2014-06-08	00:51:08		1402181451	162	4	4333643025	Shutdown - Unloaded dll successfully.

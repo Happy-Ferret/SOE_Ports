@@ -1,0 +1,6 @@
+
+**** Starting at Sun Jun 08 00:49:57 2014 with plug-in 1.0.3.183 ****
+Finished downloading 27,530 bytes in 1.567 seconds (17,568 bytes per second)
+
+**** Starting at Sun Jun 08 00:50:52 2014 with plug-in 1.0.3.183 ****
+Finished downloading 2,437,199 bytes in 14.838 seconds (164,253 bytes per second)

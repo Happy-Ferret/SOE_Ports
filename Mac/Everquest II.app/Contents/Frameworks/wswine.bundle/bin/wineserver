@@ -1,0 +1,2 @@
+#!/bin/bash
+"$(dirname "$0")/Everquest II113924370Wineserver" "$@"

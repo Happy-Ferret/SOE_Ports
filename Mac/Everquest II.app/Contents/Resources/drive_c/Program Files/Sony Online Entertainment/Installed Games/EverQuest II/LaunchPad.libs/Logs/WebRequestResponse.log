@@ -1,0 +1,262 @@
+2014-06-08	00:51:12		1402181469	338	4	4333647207	(Loading) Request(local://loading.html/) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	339	4	4333647208	.
+2014-06-08	00:51:12		1402181469	341	4	4333647223	(Loading) Response(local://loading.html/) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=1733, mimeType=text/html.
+2014-06-08	00:51:12		1402181469	342	4	4333647225	(Loading) Request(local://loading.html/loading.css) - method=GET, extraHeaders=Accept: text/css,*/*;q=0.1
+2014-06-08	00:51:12		1402181469	343	4	4333647225	.
+2014-06-08	00:51:12		1402181469	344	4	4333647225	Creating new local page request, filepath=./LaunchPad.libs/Web/loading.css, mimetype=text/css
+2014-06-08	00:51:12		1402181469	349	4	4333647241	(Loading) Request(local://loading.html/static/lp/js/loading.js) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	350	4	4333647241	.
+2014-06-08	00:51:12		1402181469	351	4	4333647241	Creating new local page request, filepath=./LaunchPad.libs/Web/static/lp/js/loading.js, mimetype=application/javascript
+2014-06-08	00:51:12		1402181469	353	2	4333647241	Failed to load local file, filepath=./LaunchPad.libs/Web/static/lp/js/loading.js.
+2014-06-08	00:51:12		1402181469	354	4	4333647258	(Loading) Request(local://loading.html/static/lp/js/window-controls.js) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	355	4	4333647258	.
+2014-06-08	00:51:12		1402181469	356	4	4333647258	Creating new local page request, filepath=./LaunchPad.libs/Web/static/lp/js/window-controls.js, mimetype=application/javascript
+2014-06-08	00:51:12		1402181469	358	2	4333647258	Failed to load local file, filepath=./LaunchPad.libs/Web/static/lp/js/window-controls.js.
+2014-06-08	00:51:12		1402181469	359	4	4333647274	(Loading) Response(local://loading.html/loading.css) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=14228, mimeType=text/css.
+2014-06-08	00:51:12		1402181469	360	4	4333647274	(Loading) Response(local://loading.html/static/lp/js/loading.js) - statusCode=404, cached=0, requestTime=13046655072864, totalTimeMs=-13046655072864, expectedContentSize=-1, mimeType=.
+2014-06-08	00:51:12		1402181469	361	4	4333647274	(Loading) Response(local://loading.html/static/lp/js/window-controls.js) - statusCode=404, cached=0, requestTime=13046655072881, totalTimeMs=-13046655072881, expectedContentSize=-1, mimeType=.
+2014-06-08	00:51:12		1402181469	362	4	4333647274	(Loading) Request(local://loading.html/images/wrapper/content-bg.jpg) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	363	4	4333647274	.
+2014-06-08	00:51:12		1402181469	364	4	4333647274	Creating new local page request, filepath=./LaunchPad.libs/Web/images/wrapper/content-bg.jpg, mimetype=image/jpeg
+2014-06-08	00:51:12		1402181469	365	4	4333647291	(Loading) Request(local://loading.html/images/wrapper/header.png) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	366	4	4333647291	.
+2014-06-08	00:51:12		1402181469	367	4	4333647291	Creating new local page request, filepath=./LaunchPad.libs/Web/images/wrapper/header.png, mimetype=image/png
+2014-06-08	00:51:12		1402181469	368	4	4333647307	(Loading) Request(local://loading.html/images/wrapper/window-controls.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	369	4	4333647307	.
+2014-06-08	00:51:12		1402181469	370	4	4333647307	Creating new local page request, filepath=./LaunchPad.libs/Web/images/wrapper/window-controls.png, mimetype=image/png
+2014-06-08	00:51:12		1402181469	371	4	4333647325	(Loading) Request(local://loading.html/css/img/soe-logo.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	372	4	4333647326	.
+2014-06-08	00:51:12		1402181469	373	4	4333647326	Creating new local page request, filepath=./LaunchPad.libs/Web/css/img/soe-logo.png, mimetype=image/png
+2014-06-08	00:51:12		1402181469	374	4	4333647341	(Loading) Request(local://loading.html/images/mask-bg.jpg?h=eb8a5859) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	375	4	4333647341	.
+2014-06-08	00:51:12		1402181469	376	4	4333647341	Creating new local page request, filepath=./LaunchPad.libs/Web/images/mask-bg.jpg, mimetype=image/jpeg
+2014-06-08	00:51:12		1402181469	377	4	4333647359	(Loading) Request(local://loading.html/images/modal-reg-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	378	4	4333647359	.
+2014-06-08	00:51:12		1402181469	379	4	4333647359	Creating new local page request, filepath=./LaunchPad.libs/Web/images/modal-reg-bg.png, mimetype=image/png
+2014-06-08	00:51:12		1402181469	380	4	4333647376	(Loading) Request(local://loading.html/images/modal-login-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	381	4	4333647376	.
+2014-06-08	00:51:12		1402181469	382	4	4333647376	Creating new local page request, filepath=./LaunchPad.libs/Web/images/modal-login-bg.png, mimetype=image/png
+2014-06-08	00:51:12		1402181469	383	4	4333647391	(Loading) Request(local://loading.html/css/img/waiting-loading.gif?h=d04d8ccd) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	384	4	4333647391	.
+2014-06-08	00:51:12		1402181469	385	4	4333647391	Creating new local page request, filepath=./LaunchPad.libs/Web/css/img/waiting-loading.gif, mimetype=image/gif
+2014-06-08	00:51:12		1402181469	386	4	4333647409	(Loading) Request(local://loading.html/images/wrapper/footer-bg.jpg?h=48e7c69b) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:12		1402181469	387	4	4333647409	.
+2014-06-08	00:51:12		1402181469	388	4	4333647409	Creating new local page request, filepath=./LaunchPad.libs/Web/images/wrapper/footer-bg.jpg, mimetype=image/jpeg
+2014-06-08	00:51:12		1402181469	389	4	4333647425	(Loading) Response(local://loading.html/images/wrapper/content-bg.jpg) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=69902, mimeType=image/jpeg.
+2014-06-08	00:51:12		1402181469	390	4	4333647425	(Loading) Response(local://loading.html/images/wrapper/header.png) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=69567, mimeType=image/png.
+2014-06-08	00:51:12		1402181469	391	4	4333647425	(Loading) Response(local://loading.html/images/wrapper/window-controls.png?h=658e8dc0) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=2369, mimeType=image/png.
+2014-06-08	00:51:12		1402181469	392	4	4333647425	(Loading) Response(local://loading.html/css/img/soe-logo.png?h=658e8dc0) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=2986, mimeType=image/png.
+2014-06-08	00:51:12		1402181469	393	4	4333647425	(Main) Request(https://lp.soe.com/eq2/live/?t=43336) - method=GET, extraHeaders=Accept: application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+2014-06-08	00:51:12		1402181469	394	4	4333647425	.
+2014-06-08	00:51:12		1402181469	396	4	4333647445	(Loading) Response(local://loading.html/images/mask-bg.jpg?h=eb8a5859) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=253762, mimeType=image/jpeg.
+2014-06-08	00:51:12		1402181469	397	4	4333647445	(Loading) Response(local://loading.html/images/modal-reg-bg.png?h=658e8dc0) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=361986, mimeType=image/png.
+2014-06-08	00:51:12		1402181469	398	4	4333647445	(Loading) Response(local://loading.html/images/modal-login-bg.png?h=658e8dc0) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=284595, mimeType=image/png.
+2014-06-08	00:51:12		1402181469	399	4	4333647445	(Loading) Response(local://loading.html/css/img/waiting-loading.gif?h=d04d8ccd) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=845, mimeType=image/gif.
+2014-06-08	00:51:12		1402181469	400	4	4333647445	(Loading) Response(local://loading.html/images/wrapper/footer-bg.jpg?h=48e7c69b) - statusCode=200, cached=0, requestTime=0, totalTimeMs=0, expectedContentSize=4608, mimeType=image/jpeg.
+2014-06-08	00:51:15		1402181469	407	4	4333649458	(Main) Response(https://lp.soe.com/eq2/live/?t=43336) - statusCode=200, cached=0, requestTime=13046655074295, totalTimeMs=772, expectedContentSize=-1, mimeType=text/html.
+2014-06-08	00:51:15		1402181469	408	4	4333649459	(Main) Request(https://lp.soe.com/static/lp/css/launchpad.css?t=1382148514) - method=GET, extraHeaders=Accept: text/css,*/*;q=0.1
+2014-06-08	00:51:15		1402181469	409	4	4333649459	.
+2014-06-08	00:51:15		1402181469	414	4	4333649475	(Main) Response(https://lp.soe.com/static/lp/css/launchpad.css?t=1382148514) - statusCode=200, cached=1, requestTime=13046655003089, totalTimeMs=387, expectedContentSize=-1, mimeType=text/css.
+2014-06-08	00:51:15		1402181469	415	4	4333649475	(Main) Request(https://lp.soe.com/static/lp/games/eq2/game.css?t=1371739096) - method=GET, extraHeaders=Accept: text/css,*/*;q=0.1
+2014-06-08	00:51:15		1402181469	416	4	4333649475	.
+2014-06-08	00:51:15		1402181469	417	4	4333649491	(Main) Request(https://tealium.hs.llnwd.net/o43/utag/soe/lp/prod/utag.js) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	418	4	4333649491	.
+2014-06-08	00:51:15		1402181469	419	4	4333649508	(Main) Response(https://lp.soe.com/static/lp/games/eq2/game.css?t=1371739096) - statusCode=200, cached=1, requestTime=13046655003891, totalTimeMs=338, expectedContentSize=-1, mimeType=text/css.
+2014-06-08	00:51:15		1402181469	420	4	4333649508	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery-1.7.1.min.js?t=1382997106) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	421	4	4333649508	.
+2014-06-08	00:51:15		1402181469	422	4	4333649526	(Main) Request(https://lp.soe.com/eq2/live/?t=43336) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	423	4	4333649526	.
+2014-06-08	00:51:15		1402181469	424	4	4333649543	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery-1.7.1.min.js?t=1382997106) - statusCode=200, cached=1, requestTime=13046655003477, totalTimeMs=667, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	425	4	4333649543	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery-ui-1.8.16.custom.min.js?t=1382997106) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	426	4	4333649543	.
+2014-06-08	00:51:15		1402181469	427	4	4333649558	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery-ui-1.8.16.custom.min.js?t=1382997106) - statusCode=200, cached=1, requestTime=13046655004289, totalTimeMs=542, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	428	4	4333649558	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.tools.min.js?t=1382997107) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	429	4	4333649558	.
+2014-06-08	00:51:15		1402181469	430	4	4333649574	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.cookie-modified.js?t=1382997106) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	431	4	4333649574	.
+2014-06-08	00:51:15		1402181469	432	4	4333649591	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.mousewheel.js?t=1382997107) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	433	4	4333649591	.
+2014-06-08	00:51:15		1402181469	434	4	4333649608	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.jscrollpane.min.js?t=1382997107) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	435	4	4333649608	.
+2014-06-08	00:51:15		1402181469	436	4	4333649625	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.dataTables.min.js?t=1382997106) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	437	4	4333649625	.
+2014-06-08	00:51:15		1402181469	438	4	4333649642	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.zrssfeed.min.js?t=1382997107) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	439	4	4333649643	.
+2014-06-08	00:51:15		1402181469	440	4	4333649659	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.easing.js?t=1382997106) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	441	4	4333649659	.
+2014-06-08	00:51:15		1402181469	442	4	4333649676	(Main) Request(https://lp.soe.com/static/lp/js/jquery/jquery.mediascroll.js?t=1382997107) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	443	4	4333649676	.
+2014-06-08	00:51:15		1402181469	444	4	4333649693	(Main) Request(https://lp.soe.com/static/plugin/WebInstaller.shell.js?t=1382997113) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	445	4	4333649693	.
+2014-06-08	00:51:15		1402181469	446	4	4333649710	(Main) Request(https://lp.soe.com/static/lp/js/data-tracker.js?t=1382997105) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	447	4	4333649711	.
+2014-06-08	00:51:15		1402181469	448	4	4333649727	(Main) Request(https://lp.soe.com/static/lp/js/launchpad.js?t=1382997107) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	449	4	4333649727	.
+2014-06-08	00:51:15		1402181469	450	4	4333649744	(Main) Request(https://lp.soe.com/static/lp/games/eq2/game.js?t=1330645943) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	451	4	4333649744	.
+2014-06-08	00:51:15		1402181469	452	4	4333649760	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/wrapper/content-bg.jpg) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	453	4	4333649760	.
+2014-06-08	00:51:15		1402181469	454	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.tools.min.js?t=1382997107) - statusCode=200, cached=1, requestTime=13046655005231, totalTimeMs=356, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	455	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.cookie-modified.js?t=1382997106) - statusCode=200, cached=1, requestTime=13046655004732, totalTimeMs=350, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	456	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.mousewheel.js?t=1382997107) - statusCode=200, cached=1, requestTime=13046655005717, totalTimeMs=363, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	457	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.jscrollpane.min.js?t=1382997107) - statusCode=200, cached=1, requestTime=13046655005661, totalTimeMs=363, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	458	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.dataTables.min.js?t=1382997106) - statusCode=200, cached=1, requestTime=13046655004880, totalTimeMs=1073, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	459	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.zrssfeed.min.js?t=1382997107) - statusCode=200, cached=1, requestTime=13046655005083, totalTimeMs=366, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	460	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.easing.js?t=1382997106) - statusCode=200, cached=1, requestTime=13046655005450, totalTimeMs=349, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	461	4	4333649777	(Main) Response(https://lp.soe.com/static/lp/js/jquery/jquery.mediascroll.js?t=1382997107) - statusCode=200, cached=1, requestTime=13046655005588, totalTimeMs=343, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	462	4	4333649777	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/wrapper/header.png) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	463	4	4333649777	.
+2014-06-08	00:51:15		1402181469	464	4	4333649795	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/wrapper/window-controls.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	465	4	4333649795	.
+2014-06-08	00:51:15		1402181469	466	4	4333649812	(Main) Request(https://lp.soe.com/static/lp/css/img/soe-logo.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	467	4	4333649812	.
+2014-06-08	00:51:15		1402181469	468	4	4333649827	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/wrapper/topnav-arrow.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	469	4	4333649827	.
+2014-06-08	00:51:15		1402181469	470	4	4333649844	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/modal-reg-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	471	4	4333649845	.
+2014-06-08	00:51:15		1402181469	472	4	4333649860	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/modal-login-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	473	4	4333649860	.
+2014-06-08	00:51:15		1402181469	474	4	4333649877	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/modal-error-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	475	4	4333649877	.
+2014-06-08	00:51:15		1402181469	476	4	4333649894	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/mask-bg.jpg?h=eb8a5859) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	477	4	4333649894	.
+2014-06-08	00:51:15		1402181469	478	4	4333649911	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/news-bg.jpg?h=db699cdb) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	479	4	4333649911	.
+2014-06-08	00:51:15		1402181469	480	4	4333649928	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/content-header-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	481	4	4333649928	.
+2014-06-08	00:51:15		1402181469	482	4	4333649944	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/action-menu-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	483	4	4333649944	.
+2014-06-08	00:51:15		1402181469	484	4	4333649960	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/close-button.jpg?h=93bd3367) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	485	4	4333649960	.
+2014-06-08	00:51:15		1402181469	486	4	4333649975	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/install-bar-bg.jpg?h=c2e42c65) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	487	4	4333649975	.
+2014-06-08	00:51:15		1402181469	488	4	4333649991	(Main) Response(https://lp.soe.com/static/plugin/WebInstaller.shell.js?t=1382997113) - statusCode=200, cached=1, requestTime=13046655005669, totalTimeMs=370, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	489	4	4333649991	(Main) Response(https://lp.soe.com/static/lp/js/data-tracker.js?t=1382997105) - statusCode=200, cached=1, requestTime=13046655005800, totalTimeMs=333, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	490	4	4333649991	(Main) Response(https://lp.soe.com/static/lp/js/launchpad.js?t=1382997107) - statusCode=200, cached=1, requestTime=13046655005932, totalTimeMs=1009, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	491	4	4333649991	(Main) Response(https://lp.soe.com/static/lp/games/eq2/game.js?t=1330645943) - statusCode=200, cached=1, requestTime=13046655005958, totalTimeMs=318, expectedContentSize=221, mimeType=application/x-javascript.
+2014-06-08	00:51:15		1402181469	492	4	4333649991	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/wrapper/content-bg.jpg) - statusCode=200, cached=1, requestTime=13046655006025, totalTimeMs=1037, expectedContentSize=69902, mimeType=image/jpeg.
+2014-06-08	00:51:15		1402181469	493	4	4333649991	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/btn-action-menu.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	494	4	4333649991	.
+2014-06-08	00:51:15		1402181469	495	4	4333650008	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/carousel/carousel-bg.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	496	4	4333650008	.
+2014-06-08	00:51:15		1402181469	497	4	4333650025	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/progress/cover.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	498	4	4333650025	.
+2014-06-08	00:51:15		1402181469	499	4	4333650041	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/wrapper/footer-bg.jpg?h=48e7c69b) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	500	4	4333650041	.
+2014-06-08	00:51:15		1402181469	501	4	4333650058	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/wrapper/letter.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	502	4	4333650058	.
+2014-06-08	00:51:15		1402181469	503	4	4333650073	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/wrapper/button-language.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	504	4	4333650073	.
+2014-06-08	00:51:15		1402181469	505	4	4333650090	(Main) Request(https://lp.soe.com/static/lp/css/flags/us.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	506	4	4333650090	.
+2014-06-08	00:51:15		1402181469	507	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/wrapper/header.png) - statusCode=200, cached=1, requestTime=13046655006040, totalTimeMs=1086, expectedContentSize=69567, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	508	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/wrapper/window-controls.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655006081, totalTimeMs=366, expectedContentSize=2369, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	509	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/css/img/soe-logo.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655006134, totalTimeMs=352, expectedContentSize=2986, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	510	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/wrapper/topnav-arrow.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655006277, totalTimeMs=325, expectedContentSize=1031, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	511	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/modal-reg-bg.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655006448, totalTimeMs=1081, expectedContentSize=361986, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	512	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/modal-login-bg.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655006487, totalTimeMs=379, expectedContentSize=284595, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	513	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/modal-error-bg.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655006603, totalTimeMs=729, expectedContentSize=251826, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	514	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/mask-bg.jpg?h=eb8a5859) - statusCode=200, cached=1, requestTime=13046655006944, totalTimeMs=716, expectedContentSize=94173, mimeType=image/jpeg.
+2014-06-08	00:51:15		1402181469	515	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/news-bg.jpg?h=db699cdb) - statusCode=200, cached=1, requestTime=13046655008815, totalTimeMs=369, expectedContentSize=3852, mimeType=image/jpeg.
+2014-06-08	00:51:15		1402181469	516	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/content-header-bg.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655009033, totalTimeMs=365, expectedContentSize=3691, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	517	4	4333650108	(Main) Response(https://lp.soe.com/eq2/live/?t=43336) - statusCode=200, cached=0, requestTime=13046655075148, totalTimeMs=571, expectedContentSize=-1, mimeType=text/html.
+2014-06-08	00:51:15		1402181469	518	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/action-menu-bg.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655009399, totalTimeMs=350, expectedContentSize=4772, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	519	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/close-button.jpg?h=93bd3367) - statusCode=200, cached=1, requestTime=13046655009750, totalTimeMs=375, expectedContentSize=1863, mimeType=image/jpeg.
+2014-06-08	00:51:15		1402181469	520	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/install-bar-bg.jpg?h=c2e42c65) - statusCode=200, cached=1, requestTime=13046655009918, totalTimeMs=1918, expectedContentSize=10355, mimeType=image/jpeg.
+2014-06-08	00:51:15		1402181469	521	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/btn-action-menu.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655010126, totalTimeMs=2108, expectedContentSize=9978, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	522	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/carousel/carousel-bg.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655011837, totalTimeMs=307, expectedContentSize=3307, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	523	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/progress/cover.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655012145, totalTimeMs=294, expectedContentSize=2495, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	524	4	4333650108	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/wrapper/footer-bg.jpg?h=48e7c69b) - statusCode=200, cached=1, requestTime=13046655012235, totalTimeMs=679, expectedContentSize=4608, mimeType=image/jpeg.
+2014-06-08	00:51:15		1402181469	525	4	4333650109	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/wrapper/letter.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655012440, totalTimeMs=323, expectedContentSize=1985, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	526	4	4333650109	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/wrapper/button-language.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655012765, totalTimeMs=334, expectedContentSize=2349, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	527	4	4333650109	(Main) Response(https://lp.soe.com/static/lp/css/flags/us.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655012789, totalTimeMs=341, expectedContentSize=609, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	536	4	4333650190	(Main) Request(https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&_=1402181475802&callback=jQuery171035904720332473516_1402181475214&q=https%3A%2F%2Fforums.station.sony.com%2Feq2%2Findex.php%3Fforums%2Fnews-and-announcements.2%2Findex.rss&num=15&output=json_xml) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	537	4	4333650190	.
+2014-06-08	00:51:15		1402181469	540	4	4333650206	(Main) Request(https://lp.soe.com/eq2/live/register0?t=43336) - method=GET, extraHeaders=X-Requested-With: XMLHttpRequest
+2014-06-08	00:51:15		1402181469	541	4	4333650206	Accept: text/html, */*; q=0.01
+2014-06-08	00:51:15		1402181469	542	4	4333650206	.
+2014-06-08	00:51:15		1402181469	543	4	4333650223	(Main) Request(https://assets.soe.com/query?callback=jQuery171035904720332473516_1402181475215&type=global_ad_list&subtypeAllOf=lp4%2Ceq2&locale=en_us&newestFirst=true&_=1402181475818) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	544	4	4333650223	.
+2014-06-08	00:51:15		1402181469	545	4	4333650237	(Main) Request(https://assets.soe.com/query?callback=jQuery171035904720332473516_1402181475216&type=lp4_ribbon_list&subtypeAllOf=lp4%2Ceq2&locale=en_us&newestFirst=true&_=1402181475819) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	546	4	4333650237	.
+2014-06-08	00:51:15		1402181469	547	4	4333650253	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/installButton/btn-play.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	548	4	4333650253	.
+2014-06-08	00:51:15		1402181469	554	4	4333650270	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/installButton/btn-play.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655012915, totalTimeMs=1096, expectedContentSize=92000, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	555	4	4333650271	(Main) Request(https://lp.soe.com/static/lp/css/img/reg-state-failed.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	556	4	4333650271	.
+2014-06-08	00:51:15		1402181469	557	4	4333650286	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/btn-login.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	558	4	4333650286	.
+2014-06-08	00:51:15		1402181469	559	4	4333650302	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/create-account-icon.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:15		1402181469	560	4	4333650302	.
+2014-06-08	00:51:15		1402181469	561	4	4333650319	(Main) Response(https://lp.soe.com/static/lp/css/img/reg-state-failed.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655013100, totalTimeMs=356, expectedContentSize=1363, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	562	4	4333650319	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/btn-login.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655013131, totalTimeMs=1100, expectedContentSize=56375, mimeType=image/png.
+2014-06-08	00:51:15		1402181469	563	4	4333650319	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/create-account-icon.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655013458, totalTimeMs=355, expectedContentSize=1578, mimeType=image/png.
+2014-06-08	00:51:16		1402181469	564	4	4333650551	(Main) Response(https://tealium.hs.llnwd.net/o43/utag/soe/lp/prod/utag.js) - statusCode=200, cached=1, requestTime=13046655076010, totalTimeMs=158, expectedContentSize=-1, mimeType=application/javascript.
+2014-06-08	00:51:16		1402181469	565	4	4333650568	(Main) Response(https://lp.soe.com/eq2/live/register0?t=43336) - statusCode=200, cached=0, requestTime=13046655075828, totalTimeMs=348, expectedContentSize=-1, mimeType=text/html.
+2014-06-08	00:51:16		1402181469	566	4	4333650568	(Main) Request(https://lp.soe.com/static/lp/js/validations-four-page.js?v=867&_=1402181476188) - method=GET, extraHeaders=X-Requested-With: XMLHttpRequest
+2014-06-08	00:51:16		1402181469	567	4	4333650568	Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+2014-06-08	00:51:16		1402181469	568	4	4333650568	.
+2014-06-08	00:51:16		1402181469	569	4	4333650922	(Main) Response(https://lp.soe.com/static/lp/js/validations-four-page.js?v=867&_=1402181476188) - statusCode=200, cached=0, requestTime=13046655076195, totalTimeMs=344, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:16		1402181469	570	4	4333650922	(Main) Response(https://ajax.googleapis.com/ajax/services/feed/load?v=1.0&_=1402181475802&callback=jQuery171035904720332473516_1402181475214&q=https%3A%2F%2Fforums.station.sony.com%2Feq2%2Findex.php%3Fforums%2Fnews-and-announcements.2%2Findex.rss&num=15&output=json_xml) - statusCode=200, cached=0, requestTime=13046655076337, totalTimeMs=204, expectedContentSize=-1, mimeType=text/javascript.
+2014-06-08	00:51:16		1402181469	571	4	4333651156	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/bg-scrollbar-track-y.png) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:16		1402181469	572	4	4333651157	.
+2014-06-08	00:51:16		1402181469	573	4	4333651172	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/bg-scrollbar-track-y.png) - statusCode=200, cached=1, requestTime=13046655013814, totalTimeMs=364, expectedContentSize=1219, mimeType=image/png.
+2014-06-08	00:51:16		1402181469	574	4	4333651172	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/bg-scrollbar-thumb-y.png) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:16		1402181469	575	4	4333651172	.
+2014-06-08	00:51:16		1402181469	576	4	4333651190	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/arrow-up.png) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:16		1402181469	577	4	4333651190	.
+2014-06-08	00:51:16		1402181469	578	4	4333651205	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/arrow-down.png) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:16		1402181469	579	4	4333651205	.
+2014-06-08	00:51:16		1402181469	580	4	4333651222	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/bg-scrollbar-thumb-y.png) - statusCode=200, cached=1, requestTime=13046655014179, totalTimeMs=338, expectedContentSize=1913, mimeType=image/png.
+2014-06-08	00:51:16		1402181469	581	4	4333651222	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/arrow-up.png) - statusCode=200, cached=1, requestTime=13046655014518, totalTimeMs=349, expectedContentSize=1504, mimeType=image/png.
+2014-06-08	00:51:16		1402181469	582	4	4333651222	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/scrollbar/arrow-down.png) - statusCode=200, cached=1, requestTime=13046655014868, totalTimeMs=305, expectedContentSize=1497, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	583	4	4333651576	(Main) Response(https://assets.soe.com/query?callback=jQuery171035904720332473516_1402181475215&type=global_ad_list&subtypeAllOf=lp4%2Ceq2&locale=en_us&newestFirst=true&_=1402181475818) - statusCode=200, cached=0, requestTime=13046655076831, totalTimeMs=357, expectedContentSize=-1, mimeType=application/json.
+2014-06-08	00:51:17		1402181469	584	4	4333651576	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/059/201.jpg?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	585	4	4333651576	.
+2014-06-08	00:51:17		1402181469	586	4	4333651593	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/059/201.jpg?v=0.0) - statusCode=200, cached=1, requestTime=13046655009579, totalTimeMs=374, expectedContentSize=80913, mimeType=image/jpeg.
+2014-06-08	00:51:17		1402181469	587	4	4333651593	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/056/301.jpg?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	588	4	4333651593	.
+2014-06-08	00:51:17		1402181469	589	4	4333651610	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/056/981.jpg?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	590	4	4333651610	.
+2014-06-08	00:51:17		1402181469	591	4	4333651627	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/036/941.jpg?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	592	4	4333651627	.
+2014-06-08	00:51:17		1402181469	593	4	4333651644	(Main) Request(https://lp.soe.com/static/lp/games/eq2/images/carousel/carosuel-nav.png?h=658e8dc0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	594	4	4333651644	.
+2014-06-08	00:51:17		1402181469	595	4	4333651660	(Main) Response(https://assets.soe.com/query?callback=jQuery171035904720332473516_1402181475216&type=lp4_ribbon_list&subtypeAllOf=lp4%2Ceq2&locale=en_us&newestFirst=true&_=1402181475819) - statusCode=200, cached=0, requestTime=13046655076852, totalTimeMs=414, expectedContentSize=-1, mimeType=application/json.
+2014-06-08	00:51:17		1402181469	596	4	4333651660	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/056/301.jpg?v=0.0) - statusCode=200, cached=1, requestTime=13046655009579, totalTimeMs=429, expectedContentSize=60661, mimeType=image/jpeg.
+2014-06-08	00:51:17		1402181469	597	4	4333651660	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/056/981.jpg?v=0.0) - statusCode=200, cached=1, requestTime=13046655009586, totalTimeMs=444, expectedContentSize=73467, mimeType=image/jpeg.
+2014-06-08	00:51:17		1402181469	598	4	4333651660	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/036/941.jpg?v=0.0) - statusCode=200, cached=1, requestTime=13046655009591, totalTimeMs=908, expectedContentSize=68863, mimeType=image/jpeg.
+2014-06-08	00:51:17		1402181469	599	4	4333651660	(Main) Response(https://lp.soe.com/static/lp/games/eq2/images/carousel/carosuel-nav.png?h=658e8dc0) - statusCode=200, cached=1, requestTime=13046655015080, totalTimeMs=320, expectedContentSize=1995, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	600	4	4333651661	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/023.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	601	4	4333651661	.
+2014-06-08	00:51:17		1402181469	602	4	4333651677	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/028/501.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	603	4	4333651677	.
+2014-06-08	00:51:17		1402181469	604	4	4333651694	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/024.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	605	4	4333651694	.
+2014-06-08	00:51:17		1402181469	606	4	4333651710	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/604.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	607	4	4333651710	.
+2014-06-08	00:51:17		1402181469	608	4	4333651726	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/001.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	609	4	4333651726	.
+2014-06-08	00:51:17		1402181469	610	4	4333651742	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/610.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	611	4	4333651742	.
+2014-06-08	00:51:17		1402181469	612	4	4333651759	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/042.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	613	4	4333651759	.
+2014-06-08	00:51:17		1402181469	614	4	4333651776	(Main) Request(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/607.png?v=0.0) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	615	4	4333651776	.
+2014-06-08	00:51:17		1402181469	616	4	4333651792	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/023.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655010524, totalTimeMs=208, expectedContentSize=5023, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	617	4	4333651792	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/028/501.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655009753, totalTimeMs=437, expectedContentSize=57182, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	618	4	4333651792	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/024.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655010621, totalTimeMs=199, expectedContentSize=6917, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	619	4	4333651793	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/604.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655010733, totalTimeMs=309, expectedContentSize=50060, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	620	4	4333651793	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/001.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655010809, totalTimeMs=154, expectedContentSize=8824, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	621	4	4333651793	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/610.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655010821, totalTimeMs=378, expectedContentSize=47241, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	622	4	4333651793	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/042.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655010829, totalTimeMs=164, expectedContentSize=6522, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	623	4	4333651793	(Main) Response(https://assets-cdn.soe.com/uploads/dcsclient/000/000/008/607.png?v=0.0) - statusCode=200, cached=1, requestTime=13046655010964, totalTimeMs=376, expectedContentSize=48560, mimeType=image/png.
+2014-06-08	00:51:17		1402181469	624	4	4333651793	(Main) Request(https://tags.tiqcdn.com/utag/soe/lp/prod/utag.4.js?utv=ut4.006.201305010208) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	625	4	4333651793	.
+2014-06-08	00:51:17		1402181469	626	4	4333651809	(Main) Response(https://tags.tiqcdn.com/utag/soe/lp/prod/utag.4.js?utv=ut4.006.201305010208) - statusCode=200, cached=1, requestTime=13046655008032, totalTimeMs=366, expectedContentSize=-1, mimeType=application/x-javascript.
+2014-06-08	00:51:17		1402181469	630	4	4333651826	(Main) Request(https://smetrics.soe.com/b/ss/ussoeglobalprod/1/H.25.4/s1303900782018?AQB=1&ndh=1&t=8%2F5%2F2014%200%3A51%3A17%200%20-120&fid=65E24D12338838B6-07B8621527D8ABE5&ns=sonyonlineentertainment&pageName=lp4%20%3A%20eq2%20%3A%20eq2%20%3A%20live%20%3A%20launch%20screen&g=https%3A%2F%2Flp.soe.com%2Feq2%2Flive%2F%3Ft%3D43336&cc=USD&c1=eq2&v1=D%3Dc1&c2=launchpad&v2=D%3Dc2&c3=en&v3=D%3Dc3&c4=lp.soe.com&v4=D%3Dc4&s=1920x1058&c=32&j=1.6&v=N&k=Y&bw=917&bh=700&AQE=1) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:17		1402181469	631	4	4333651826	.
+2014-06-08	00:51:18		1402181469	648	4	4333652593	(Main) Request(https://smetrics.soe.com/b/ss/ussoeglobalprod/1/H.25.4/s19581089392304?AQB=1&ndh=1&t=8%2F5%2F2014%200%3A51%3A17%200%20-120&fid=65E24D12338838B6-07B8621527D8ABE5&ns=sonyonlineentertainment&pageName=lp4%20%3A%20eq2%20%3A%20eq2%20%3A%20live%20%3A%20login&g=https%3A%2F%2Flp.soe.com%2Feq2%2Flive%2F%3Ft%3D43336&cc=USD&c1=eq2&v1=D%3Dc1&c2=launchpad&v2=D%3Dc2&c3=en&v3=D%3Dc3&c4=lp.soe.com&v4=D%3Dc4&s=1920x1058&c=32&j=1.6&v=N&k=Y&bw=917&bh=700&AQE=1) - method=GET, extraHeaders=Accept: */*
+2014-06-08	00:51:18		1402181469	649	4	4333652593	.
+2014-06-08	00:51:19		1402181469	650	4	4333653591	(Main) Response(https://smetrics.soe.com/b/ss/ussoeglobalprod/1/H.25.4/s1303900782018?AQB=1&ndh=1&t=8%2F5%2F2014%200%3A51%3A17%200%20-120&fid=65E24D12338838B6-07B8621527D8ABE5&ns=sonyonlineentertainment&pageName=lp4%20%3A%20eq2%20%3A%20eq2%20%3A%20live%20%3A%20launch%20screen&g=https%3A%2F%2Flp.soe.com%2Feq2%2Flive%2F%3Ft%3D43336&cc=USD&c1=eq2&v1=D%3Dc1&c2=launchpad&v2=D%3Dc2&c3=en&v3=D%3Dc3&c4=lp.soe.com&v4=D%3Dc4&s=1920x1058&c=32&j=1.6&v=N&k=Y&bw=917&bh=700&AQE=1) - statusCode=200, cached=0, requestTime=13046655078810, totalTimeMs=389, expectedContentSize=43, mimeType=image/gif.
+2014-06-08	00:51:19		1402181469	651	4	4333654070	(Main) Response(https://smetrics.soe.com/b/ss/ussoeglobalprod/1/H.25.4/s19581089392304?AQB=1&ndh=1&t=8%2F5%2F2014%200%3A51%3A17%200%20-120&fid=65E24D12338838B6-07B8621527D8ABE5&ns=sonyonlineentertainment&pageName=lp4%20%3A%20eq2%20%3A%20eq2%20%3A%20live%20%3A%20login&g=https%3A%2F%2Flp.soe.com%2Feq2%2Flive%2F%3Ft%3D43336&cc=USD&c1=eq2&v1=D%3Dc1&c2=launchpad&v2=D%3Dc2&c3=en&v3=D%3Dc3&c4=lp.soe.com&v4=D%3Dc4&s=1920x1058&c=32&j=1.6&v=N&k=Y&bw=917&bh=700&AQE=1) - statusCode=200, cached=0, requestTime=13046655079352, totalTimeMs=334, expectedContentSize=43, mimeType=image/gif.

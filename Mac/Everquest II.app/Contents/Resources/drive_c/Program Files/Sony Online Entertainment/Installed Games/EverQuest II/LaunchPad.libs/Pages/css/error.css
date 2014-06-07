@@ -1,0 +1,148 @@
+/* GLOBAL CSS RESET start */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+address, caption, cite, code, dfn, th, var {
+	font-style: normal;
+	font-weight: normal;
+}
+ol, ul {
+	list-style: none;
+}
+caption, th {
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q:before, q:after {
+	content: '';
+}
+abbr, acronym {
+	border: 0;
+}
+/*a {
+	text-decoration: none;
+}*/
+/* GLOBAL CSS RESET end */
+
+
+/* GLOBAL HTML OVERWRITES start */
+body {
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #4b4b4b;
+	background-color: white;
+}
+a, a:active, a:hover, a:focus, a:visited {
+	cursor: pointer;
+	color: #0e78c9;
+}
+p {
+	margin: 0 0 1.5em 0;
+}
+/* GLOBAL HTML OVERWRITES end */
+
+
+/* GLOBAL USE STYLES start */
+.clr {
+	clear: both;
+	height: 0;
+	line-height: 0;
+	font-size: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+/* GLOBAL USE STYLES end */
+
+
+/* COMPONENTS start */
+/* COMPONENTS end */
+
+
+/* GLOBAL WRAPPER STYLES start */
+#lp {
+	margin: 0 auto;
+	width: 915px;
+	height: 617px;
+	background: url("../images/bg.jpg") no-repeat scroll 0 0 transparent;
+	position: relative;
+}
+#lpFrameControls {
+	position: absolute;
+	right: 16px;
+	top: 11px;
+	z-index: 9999;
+}
+#lpFrameControls .lpFrameControl {
+	background: url("../images/window-controls.png") repeat-x scroll 0 0 transparent;
+	width: 31px;
+	height: 33px;
+	float: right;
+	display: block;
+}
+#lpFrameControls #lpFrameMinimize.lpFrameControl {
+	background-position: 0 0;
+}
+#lpFrameControls #lpFrameMinimize.lpFrameControl:hover {
+	background-position: 0 -33px;
+}
+#lpFrameControls #lpFrameClose.lpFrameControl {
+	background-position: 32px 0;
+}
+#lpFrameControls #lpFrameClose.lpFrameControl:hover {
+	background-position: 32px -33px;
+}
+
+#lp #lpContent {
+	width: 678px;
+	height: 428px;
+	padding: 94px 119px;
+}
+#lp #lpContent h1 {
+	background: url("../images/alert.png") no-repeat scroll 0 0 transparent;
+	line-height: 24px;
+	color: #0e78c9;
+	font-family: "Trebuchet MS","trebuchet","arial";
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0 0 30px 0;
+	padding: 0 0 14px 34px;
+	border-bottom: 1px solid #b4b4b4;
+}
+#lp #lpContent #icons {
+	display: inline-block;
+	-webkit-box-shadow: 0 0 15px -2px #cccccc, 0 8px 15px -7px #cccccc;
+	-moz-box-shadow: 0 0 15px -2px #cccccc, 0 8px 15px -7px #cccccc;
+	box-shadow: 0 0 15px -2px #cccccc, 0 8px 15px -7px #cccccc;
+	margin: 10px 202px;
+	padding: 10px 20px;
+}
+#lp #lpContent #icons .icon {
+	width: 58px;
+	height: 58px;
+	background: no-repeat scroll 0 0 transparent;
+	float: left;
+	margin: 5px 10px;
+	display: inline-block;
+}
+#lp #lpContent #icons #iconFacebook.icon {
+	background: url("../images/icon-facebook.png");
+}
+#lp #lpContent #icons #iconYoutube.icon {
+	background: url("../images/icon-youtube.png");
+}
+#lp #lpContent #icons #iconTwitter.icon {
+	background: url("../images/icon-twitter.png");
+}

@@ -1,0 +1,203 @@
+2014-06-08	00:50:51		1402181451	1	4	4333625523	InitializeLogging - local logger created, localLogLevel=5, defaultLogfile=#GameLauncher.log.
+2014-06-08	00:50:51		1402181451	2	4	4333625523	GameLauncherClient - Starting version=5.1.5.4, buildTime=Sep 19 2012 18:42:42, processId=8, clientGuid=yhbn8Vumkg8AmBBa5fYS, clientSessionId=1402181453, elapsedTimeSinceStartupMs=11.
+2014-06-08	00:50:51		1402181451	5	4	4333625524	PrepatchInitialize - Begin, elapsedTimeSinceStartupMs=0.
+2014-06-08	00:50:51		1402181451	22	4	4333625525	PrepatchInitialize - Logging initialized.
+2014-06-08	00:50:51		1402181451	23	4	4333625525	PrepatchInitialize - Working directory is: C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II.
+2014-06-08	00:50:51		1402181451	24	4	4333625525	InitializeInfiniteLoopMonitor - Starting up infinite loop monitor, crashFilename=gamelauncher.eq2.txt, timeout=300 seconds.
+2014-06-08	00:50:51		1402181451	25	4	4333625525	PrepatchInitialize - Initialized the infinite loop monitor.
+2014-06-08	00:50:51		1402181451	26	4	4333625525	InitializeCrashReporter - Connecting to crash report server, crashReporterName=gamelauncher, address=recap2.freerealms.net, filepath=./LaunchPad.libs/wws_crashreport_uploader.exe.
+2014-06-08	00:50:51		1402181451	27	4	4333625526	PrepatchInitialize - Initialized the crash reporter.
+2014-06-08	00:50:51		1402181451	119	4	4333625529	PrepatchInitialize - Created the legacy wrapper.
+2014-06-08	00:50:51		1402181451	120	4	4333625529	DisplayBasicSplashScreen - Creating a splash screen, logoFilepath=./LaunchPad.libs/Pages/Logo.bmp, windowTitle=LaunchPad, iconFilepath=LaunchPad.ico, width=800, height=600.
+2014-06-08	00:50:51		1402181451	121	2	4333625529	SplashScreen::Create - Failed to load custom icon, filename=LaunchPad.ico, winError=File not found.
+2014-06-08	00:50:51		1402181451	122	2	4333625529	.
+2014-06-08	00:50:51		1402181451	124	4	4333625581	PrepatchInitialize - Updating the patcher dll.
+2014-06-08	00:50:51		1402181451	127	4	4333625581	PrepatchInitialize - Completed successfully, preInitMs=57.
+2014-06-08	00:50:51		1402181451	128	4	4333625581	Run - beginning to run.
+2014-06-08	00:50:51		1402181451	130	5	4333625581	HttpConnection::GiveTime(lp.soe.com:mod0) EstablishConnection
+2014-06-08	00:50:51		1402181451	131	5	4333625977	HttpConnection::ConnectComplete(lp.soe.com:mod0) Address=64.37.171.24:80
+2014-06-08	00:50:51		1402181451	132	5	4333625977	GET http://lp.soe.com/static/plugin/ActionVersion.txt?t=1402181451 (mod=0)
+2014-06-08	00:50:51		1402181451	133	5	4333626330	HttpConnection::OnRoutePacket(lp.soe.com:mod0) Len=309
+2014-06-08	00:50:51		1402181451	134	5	4333626330	RECEIVED(3) http://lp.soe.com/static/plugin/ActionVersion.txt?t=1402181451 (mod=0)
+2014-06-08	00:50:51		1402181451	138	4	4333626332	OnUpdatePatcherDll - Successfully updated the patcher dll.
+2014-06-08	00:50:51		1402181451	143	4	4333626334	OnUpdatePatcherDll - Initialized the legacy patcher.
+2014-06-08	00:50:51		1402181451	145	4	4333626334	Starting to patch assets through the launchpad patcher.
+2014-06-08	00:50:56		1402181451	147	5	4333630420	HttpConnection::GiveTime(lp.soe.com:mod0) expired, disconnecting
+2014-06-08	00:50:56		1402181451	148	5	4333630420	HttpConnection::OnTerminated(lp.soe.com:mod0) DisconnectReasonApplication
+2014-06-08	00:51:08		1402181451	150	4	4333643018	Successfully patched files through the launchpad patcher, totalTimeMillis=16684.
+2014-06-08	00:51:08		1402181451	151	4	4333643018	A self patch occurred, backupProcessFile=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.exe.bak.
+2014-06-08	00:51:08		1402181451	153	4	4333643018	RequestShutdown - Shutdown requested, reason=SelfPatchRestart, restartFilename=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.exe.
+2014-06-08	00:51:08		1402181451	156	4	4333643025	Run - ending the run.
+2014-06-08	00:51:08		1402181451	158	4	4333643025	Run - Restarting in a new process, filepath=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.exe.
+2014-06-08	00:51:08		1402181451	159	4	4333643025	Shutting down.
+2014-06-08	00:51:08		1402181451	160	4	4333643025	Disabling command processing.
+2014-06-08	00:51:08		1402181451	161	4	4333643025	Shutting down legacy wrapper.
+2014-06-08	00:51:08		1402181451	163	4	4333643025	Destroying auxiliary views.
+2014-06-08	00:51:08		1402181451	164	4	4333643026	Shutting down engine.
+2014-06-08	00:51:08		1402181451	166	4	4333643027	Destroying main view.
+2014-06-08	00:51:08		1402181451	167	4	4333643027	Destroying web core.
+2014-06-08	00:51:08		1402181451	168	4	4333643027	Shutting down log service.
+2014-06-08	00:51:09		1402181469	1	4	4333643400	InitializePostConfigLogging - local logger created, localLogLevel=4, defaultLogfile=#GameLauncher.log.
+2014-06-08	00:51:09		1402181469	2	4	4333643400	InitializePostConfigLogging - connecting to logging server, address=lvs-gt-els01.station.sony.com:20060;lvs-gt-els01.station.sony.com:20061;lvs-gt-els02.station.sony.com:20060;lvs-gt-els02.station.sony.com:20061;lvs-gt-els03.station.sony.com:20060;lvs-gt-els03.station.sony.com:20061;lvs-gt-els04.station.sony.com:20060;lvs-gt-els04.station.sony.com:20061.
+2014-06-08	00:51:09		1402181469	7	4	4333643401	GameLauncherClient - Starting name=LaunchPad Shell, guid={805ACF13-47BC-4cc3-878F-771D53BD2C59}, version=5.2.5.24, gameEnv=live, gameCode=eq2, serverEnv=live, appBuildTime=Mar  4 2013 18:31:57, processId=46, processFilepath=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.exe, uf=yhbn8Vumkg8AmBBa5fYS, clientSessionId=1402181472, sf=PFN5c3RlbUZpbmdlcnByaW50IFZpZGVvQ2FyZElkPSJkeWg1NUllRWlmcDJaN3oyaTRaQ0JxR3U2ekFHRUJCVXNwZHZPeVM0ZlJzPSIgTmV0d29ya0NhcmRJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iIEhhcmRyaXZlSWQ9IiIgQ29tcHV0ZXJOYW1lPSJ6V21EN2JGUkE1c3FINVhKNHJ6dStxRGorOXRsbno1NXpoc0M1ck5rM0UwPSI-PE5ldHdvcmtBZGFwdGVycyBJc0xpc3Q9IjEiPjxOZXR3b3JrQWRhcHRlciBJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iLz48L05ldHdvcmtBZGFwdGVycz48SGFyZERyaXZlcyBJc0xpc3Q9IjEiLz48L1N5c3RlbUZpbmdlcnByaW50Pg==, elapsedTimeSinceStartupMs=215.
+2014-06-08	00:51:09		1402181469	9	4	4333643447	Video Adapter DeviceId: 4480
+2014-06-08	00:51:09		1402181469	10	4	4333643447	Video Adapter VendorId:: 4318
+2014-06-08	00:51:09		1402181469	11	4	4333643447	Video Adapter SubSetId:: 0
+2014-06-08	00:51:09		1402181469	12	4	4333643447	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:09		1402181469	31	4	4333643448	Working directory is: C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II.
+2014-06-08	00:51:09		1402181469	32	4	4333643448	InitializeInfiniteLoopMonitor - Starting up infinite loop monitor, crashFilename=LaunchPad.crash.txt, timeout=3600 seconds.
+2014-06-08	00:51:09		1402181469	33	4	4333643448	Initialized the infinite loop monitor.
+2014-06-08	00:51:09		1402181469	34	4	4333643448	InitializeCrashReporter - Connecting to crash report server, crashReporterName=LaunchPad Shell, address=recap.station.sony.com, filepath=./LaunchPad.libs/wws_crashreport_uploader.exe.
+2014-06-08	00:51:09		1402181469	35	4	4333643449	Initialized the crash reporter.
+2014-06-08	00:51:09		1402181469	36	4	4333643449	Initialized the http manager.
+2014-06-08	00:51:09		1402181469	39	4	4333643449	Initialized the application updater interface.
+2014-06-08	00:51:09		1402181469	40	4	4333643449	Locale set to en
+2014-06-08	00:51:09		1402181469	41	4	4333643449	Initialized localized messages.
+2014-06-08	00:51:09		1402181469	42	4	4333643449	Attempting to obtain registry lock, name={5E47593E-53AB-4efc-A442-127BA365D555}.
+2014-06-08	00:51:09		1402181469	43	4	4333643449	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:09		1402181469	44	3	4333643450	File::Open failure: C:\users\blinx123\Application Data\Sony Online Entertainment\ApplicationRegistry.xml (Windows GetLastError=2)
+2014-06-08	00:51:09		1402181469	45	3	4333643450	Failed to read application registry file, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/ApplicationRegistry.xml.
+2014-06-08	00:51:09		1402181469	46	4	4333643450	Releasing registry lock, name={5E47593E-53AB-4efc-A442-127BA365D555}.
+2014-06-08	00:51:09		1402181469	47	4	4333643450	Registered the application.
+2014-06-08	00:51:09		1402181469	48	4	4333643450	Run - beginning to run.
+2014-06-08	00:51:09		1402181469	49	4	4333643450	[GameLauncherClient] Starting state machine.
+2014-06-08	00:51:09		1402181469	50	4	4333643450	[GameLauncherClient] State transition request to Starting.
+2014-06-08	00:51:09		1402181469	51	4	4333643450	TransitionState - oldState=, newState=Starting, totalTimeInStateMs=0.
+2014-06-08	00:51:09		1402181469	52	4	4333643467	Self patching is enabled.
+2014-06-08	00:51:09		1402181469	53	4	4333643467	[GameLauncherClient] State transition request to UpdatingPatcher.
+2014-06-08	00:51:09		1402181469	54	4	4333643484	TransitionState - oldState=Starting, newState=UpdatingPatcher, totalTimeInStateMs=34.
+2014-06-08	00:51:09		1402181469	55	4	4333643485	[GameLauncherClient, UpdatingPatcher] State - OnEnter(Begin)
+2014-06-08	00:51:09		1402181469	56	4	4333643486	[PatcherDllUpdater] Starting state machine.
+2014-06-08	00:51:09		1402181469	57	4	4333643486	[PatcherDllUpdater] State transition request to CheckingForPatcherUpdates.
+2014-06-08	00:51:09		1402181469	58	4	4333643486	[GameLauncherClient, UpdatingPatcher] State - OnEnter(End), totalTimeMs=1.
+2014-06-08	00:51:09		1402181469	59	4	4333643501	TransitionState - state=, totalTimeInStateMs=0, nextState=CheckingForPatcherUpdates.
+2014-06-08	00:51:09		1402181469	60	4	4333643501	[PatcherDllUpdater, CheckingForPatcherUpdates] State - OnEnter(Begin)
+2014-06-08	00:51:09		1402181469	61	4	4333643501	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:09		1402181469	62	4	4333643501	Checking whether another process is updating the dll, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll, lockName=LaunchPad_8xoQOF2r79Dtt_xx1vkW4udwdHnnEGeYhppnKkxGi9Y=_XRsEQmctcIgeRbKmtC9CvwmndNEltCSWZlOhSN9XxQY=_Installing_{D2AEEC42-C726-4e30-8014-BBDDBC8A6134}.
+2014-06-08	00:51:09		1402181469	63	4	4333643502	Update lock obtained, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll, lockName=LaunchPad_8xoQOF2r79Dtt_xx1vkW4udwdHnnEGeYhppnKkxGi9Y=_XRsEQmctcIgeRbKmtC9CvwmndNEltCSWZlOhSN9XxQY=_Installing_{D2AEEC42-C726-4e30-8014-BBDDBC8A6134}
+2014-06-08	00:51:09		1402181469	64	4	4333643502	Requesting latest patcher version file, url=http://lp.soe.com/static/plugin/ActionVersion.txt
+2014-06-08	00:51:09		1402181469	65	4	4333643502	[PatcherDllUpdater, CheckingForPatcherUpdates] State - OnEnter(End), totalTimeMs=1.
+2014-06-08	00:51:10		1402181469	71	4	4333644588	HttpResponse - url=http://lp.soe.com/static/plugin/ActionVersion.txt, requestId=0, responseCode=200.
+2014-06-08	00:51:10		1402181469	72	4	4333644588	Successfully downloaded the patcher version file, url=http://lp.soe.com/static/plugin/ActionVersion.txt, dataLength=3, totalTimeMs=1087.
+2014-06-08	00:51:10		1402181469	73	4	4333644588	We have the latest patcher version, latestVersion=0.0.0.183, currentVersion=0.0.0.183.
+2014-06-08	00:51:10		1402181469	74	4	4333644588	OnPatcherDllUpdateComplete - result=No update available, versionUrl=http://lp.soe.com/static/plugin/ActionVersion.txt, downloadUrl=http://lp.soe.com/static/plugin/npsoeact.dll.zs, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll, newVersion=0.0.0.183, oldVersion=0.0.0.183, totalTimeMs=1087
+2014-06-08	00:51:10		1402181469	75	4	4333644588	[PatcherDllUpdater] Stopping state machine.
+2014-06-08	00:51:10		1402181469	76	4	4333644588	PatcherDllUpdater - state machine finished.
+2014-06-08	00:51:10		1402181469	77	4	4333644588	1: [CheckingForPatcherUpdates, 1087]
+2014-06-08	00:51:10		1402181469	78	4	4333644588	Self patching is enabled.
+2014-06-08	00:51:10		1402181469	79	4	4333644589	[GameLauncherClient] State transition request to SelfPatch.
+2014-06-08	00:51:10		1402181469	80	4	4333644605	[GameLauncherClient, UpdatingPatcher] State - OnExit (Begin)
+2014-06-08	00:51:10		1402181469	81	4	4333644605	[GameLauncherClient, UpdatingPatcher] State - OnExit (End), totalTimeMs=0.
+2014-06-08	00:51:10		1402181469	82	4	4333644605	TransitionState - oldState=UpdatingPatcher, newState=SelfPatch, totalTimeInStateMs=1121.
+2014-06-08	00:51:10		1402181469	83	4	4333644605	[GameLauncherClient, SelfPatch] State - OnEnter(Begin)
+2014-06-08	00:51:10		1402181469	84	4	4333644605	Will create the browser patcher.
+2014-06-08	00:51:10		1402181469	85	4	4333644605	InitializePatcher - Attempting to load dll from directory specified in config, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll.
+2014-06-08	00:51:10		1402181469	86	4	4333644606	InitializeBrowserPatcher - Successfully created patcher, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll, version=183.
+2014-06-08	00:51:10		1402181469	87	4	4333644606	Starting self patch, digestUrl=http://manifest.patch.station.sony.com/patch/sha/manifest/lp4/live/gamelauncher/eq2/live.sha.soe, workingDir=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II.
+2014-06-08	00:51:11		1402181469	88	4	4333646074	[GameLauncherClient, SelfPatch] State - OnEnter(End), totalTimeMs=1469.
+2014-06-08	00:51:11		1402181469	89	3	4333646083	GiveTime::SlowFrameMs=1478
+2014-06-08	00:51:11		1402181469	90	4	4333646090	Self patch complete.
+2014-06-08	00:51:11		1402181469	91	4	4333646090	[GameLauncherClient] State transition request to CheckingForSelfUpdates.
+2014-06-08	00:51:11		1402181469	92	4	4333646090	Successfully installed (ApplicationUpdates) updates, errorCode=0, totalDownloadSize=0, totalTimeSec=0
+2014-06-08	00:51:11		1402181469	93	4	4333646090	[GameLauncherClient, SelfPatch] State - OnExit (Begin)
+2014-06-08	00:51:11		1402181469	94	4	4333646090	IniFilepath=LaunchPad.ini
+2014-06-08	00:51:11		1402181469	95	4	4333646090	InternalIniFilepath=LaunchPad-internal.ini
+2014-06-08	00:51:11		1402181469	96	4	4333646090	UserIniFilepath=LaunchPad-user.ini
+2014-06-08	00:51:11		1402181469	108	4	4333646091	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:11		1402181469	113	4	4333646091	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:11		1402181469	134	4	4333646092	[GameLauncherClient, SelfPatch] State - OnExit (End), totalTimeMs=2.
+2014-06-08	00:51:11		1402181469	135	4	4333646092	TransitionState - oldState=SelfPatch, newState=CheckingForSelfUpdates, totalTimeInStateMs=1487.
+2014-06-08	00:51:11		1402181469	136	4	4333646092	[GameLauncherClient, CheckingForSelfUpdates] State - OnEnter(Begin)
+2014-06-08	00:51:11		1402181469	137	4	4333646092	Requesting latest self version, url=http://lp.soe.com/static/lp/LaunchPadShellVersion.txt.
+2014-06-08	00:51:11		1402181469	138	4	4333646092	[GameLauncherClient, CheckingForSelfUpdates] State - OnEnter(End), totalTimeMs=0.
+2014-06-08	00:51:12		1402181469	139	4	4333646848	HttpResponse - url=http://lp.soe.com/static/lp/LaunchPadShellVersion.txt, requestId=0, responseCode=200.
+2014-06-08	00:51:12		1402181469	140	4	4333646848	Successfully downloaded version file, url=http://lp.soe.com/static/lp/LaunchPadShellVersion.txt, dataLength=8, totalTimeMs=756.
+2014-06-08	00:51:12		1402181469	141	4	4333646848	We have the latest game launcher.
+2014-06-08	00:51:12		1402181469	142	4	4333646848	[GameLauncherClient] State transition request to UpdatesCompleted.
+2014-06-08	00:51:12		1402181469	143	4	4333646848	TransitionState - oldState=CheckingForSelfUpdates, newState=UpdatesCompleted, totalTimeInStateMs=756.
+2014-06-08	00:51:12		1402181469	144	4	4333646865	Will initialize the engine before displaying the main screen.
+2014-06-08	00:51:12		1402181469	145	4	4333646865	Disabling all updates.
+2014-06-08	00:51:12		1402181469	146	4	4333646865	[GameLauncherClient] State transition request to InitializingEngine.
+2014-06-08	00:51:12		1402181469	147	4	4333646883	TransitionState - oldState=UpdatesCompleted, newState=InitializingEngine, totalTimeInStateMs=35.
+2014-06-08	00:51:12		1402181469	148	4	4333646883	[GameLauncherClient, InitializingEngine] State - OnEnter(Begin)
+2014-06-08	00:51:12		1402181469	149	4	4333646883	Initializing the web core.
+2014-06-08	00:51:12		1402181469	150	4	4333646883	InitializeWebCore - Binary browser package (dll/exe), path=./LaunchPad.libs.
+2014-06-08	00:51:12		1402181469	151	4	4333646883	InitializeWebCore - loading dll, path=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.libs/Awesomium.dll.
+2014-06-08	00:51:12		1402181469	152	4	4333646912	InitializeWebCore - Dll loaded, time=29 ms
+2014-06-08	00:51:12		1402181469	153	4	4333646912	InitializeWebCore - Plugins are disabled.
+2014-06-08	00:51:12		1402181469	154	4	4333646912	InitializeWebCore - Overriding cookies & cache path, path=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.libs/LaunchPad.Cache.
+2014-06-08	00:51:12		1402181469	155	4	4333646912	InitializeWebCore - Overriding default accepted locale header value, override=en_US, overrideNonCanonical=en-US.
+2014-06-08	00:51:12		1402181469	156	4	4333646912	InitializeWebCore - Overriding default user agent header value, userAgent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en_US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/533.3.
+2014-06-08	00:51:12		1402181469	157	4	4333646913	InitializeWebCore - userAgent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/533.3 SOEWebKit/5.2.5.24 (yhbn8Vumkg8AmBBa5fYS.1402181472.PFN5c3RlbUZpbmdlcnByaW50IFZpZGVvQ2FyZElkPSJkeWg1NUllRWlmcDJaN3oyaTRaQ0JxR3U2ekFHRUJCVXNwZHZPeVM0ZlJzPSIgTmV0d29ya0NhcmRJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iIEhhcmRyaXZlSWQ9IiIgQ29tcHV0ZXJOYW1lPSJ6V21EN2JGUkE1c3FINVhKNHJ6dStxRGorOXRsbno1NXpoc0M1ck5rM0UwPSI-PE5ldHdvcmtBZGFwdGVycyBJc0xpc3Q9IjEiPjxOZXR3b3JrQWRhcHRlciBJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iLz48L05ldHdvcmtBZGFwdGVycz48SGFyZERyaXZlcyBJc0xpc3Q9IjEiLz48L1N5c3RlbUZpbmdlcnByaW50Pg==).
+2014-06-08	00:51:12		1402181469	158	4	4333646927	StateEnterInitializingEngine - Initialized web core.
+2014-06-08	00:51:12		1402181469	159	4	4333646927	StateEnterInitializingEngine - Setting application icon, filepath=LaunchPad.ico.
+2014-06-08	00:51:12		1402181469	160	4	4333646928	GameLauncherEngine::Initialize - Loaded custom icon, filename=LaunchPad.ico.
+2014-06-08	00:51:12		1402181469	161	4	4333646929	StateEnterInitializingEngine - Initialized game launcher engine.
+2014-06-08	00:51:12		1402181469	162	4	4333646929	StateEnterInitializingEngine - Overriding the default target frame rate, value=60 fps.
+2014-06-08	00:51:12		1402181469	163	4	4333646929	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:12		1402181469	164	4	4333646929	ProcessSyncEvent GameIsReady created.
+2014-06-08	00:51:12		1402181469	165	4	4333646929	StateEnterInitializingEngine - Initialized external command processor.
+2014-06-08	00:51:12		1402181469	166	4	4333646929	[GameLauncherClient, InitializingEngine] State - OnEnter(End), totalTimeMs=46.
+2014-06-08	00:51:12		1402181469	167	4	4333646935	OnEngineInitializeComplete - engine initialized successfully.
+2014-06-08	00:51:12		1402181469	168	4	4333646935	StateExecuteInitializingEngine - engine initialized successfully.
+2014-06-08	00:51:12		1402181469	169	4	4333646935	Already checked for self updates, will transition to loading main screen.
+2014-06-08	00:51:12		1402181469	170	4	4333646935	[GameLauncherClient] State transition request to LoadingMainScreen.
+2014-06-08	00:51:12		1402181469	171	4	4333646952	[GameLauncherClient, InitializingEngine] State - OnExit (Begin)
+2014-06-08	00:51:12		1402181469	172	4	4333646952	Creating loading screen, url=local:loading.html, width=917, height=700.
+2014-06-08	00:51:12		1402181469	220	4	4333646958	LoadUrl - loading site, url=local:loading.html, viewName=Loading.
+2014-06-08	00:51:12		1402181469	223	4	4333646964	StateExitInitializingEngine - creating main view.
+2014-06-08	00:51:12		1402181469	323	4	4333646969	OnInitializeComplete - launching url https://lp.soe.com/eq2/live/?t=43336.
+2014-06-08	00:51:12		1402181469	324	4	4333646969	LoadUrl - loading site, url=https://lp.soe.com/eq2/live/?t=43336, viewName=Main.
+2014-06-08	00:51:12		1402181469	327	4	4333646974	[GameLauncherClient, InitializingEngine] State - OnExit (End), totalTimeMs=22.
+2014-06-08	00:51:12		1402181469	328	4	4333646974	TransitionState - oldState=InitializingEngine, newState=LoadingMainScreen, totalTimeInStateMs=91.
+2014-06-08	00:51:12		1402181469	329	4	4333646975	[GameLauncherClient, LoadingMainScreen] State - OnEnter(Begin)
+2014-06-08	00:51:12		1402181469	330	4	4333646975	Displaying Loading screen, url=local://loading.html/.
+2014-06-08	00:51:12		1402181469	331	4	4333646976	Destroying basic splash screen.
+2014-06-08	00:51:12		1402181469	332	4	4333646976	Will create the browser patcher.
+2014-06-08	00:51:12		1402181469	333	4	4333646976	InitializePatcher - Attempting to created patcher  from existing object factory, filepath=C:/users/blinx123/Application Data/Sony Online Entertainment/npsoeact.dll.
+2014-06-08	00:51:12		1402181469	334	4	4333646976	InitializeBrowserPatcher - Successfully created patcher, filepath=, version=183.
+2014-06-08	00:51:12		1402181469	335	4	4333646978	InitializeBrowserPatcher - Successfully initialized patcher.
+2014-06-08	00:51:12		1402181469	336	4	4333646978	Created the browser patcher.
+2014-06-08	00:51:12		1402181469	337	4	4333646978	[GameLauncherClient, LoadingMainScreen] State - OnEnter(End), totalTimeMs=3.
+2014-06-08	00:51:12		1402181469	348	4	4333647241	View tile changed, viewName=Loading, title=EverQuest 2.
+2014-06-08	00:51:12		1402181469	352	3	4333647241	File::Open failure: .\LaunchPad.libs\Web\static\lp\js\loading.js (Windows GetLastError=3)
+2014-06-08	00:51:12		1402181469	357	3	4333647258	File::Open failure: .\LaunchPad.libs\Web\static\lp\js\window-controls.js (Windows GetLastError=3)
+2014-06-08	00:51:12		1402181469	402	4	4333647459	OnLoadViewSite - url=local://loading.html/, viewName=Loading, pageLoadTime=490 ms, loadResult=Success.
+2014-06-08	00:51:12		1402181469	403	4	4333647459	OnLoadViewSite - Loaded the loading screen, url=local://loading.html/.
+2014-06-08	00:51:12		1402181469	404	4	4333647459	Displaying Loading screen, url=local://loading.html/.
+2014-06-08	00:51:12		1402181469	406	4	4333647459	Destroying basic splash screen.
+2014-06-08	00:51:15		1402181469	413	4	4333649474	View tile changed, viewName=Main, title=EverQuest II.
+2014-06-08	00:51:15		1402181469	535	4	4333650189	Received ready event from the view.
+2014-06-08	00:51:15		1402181469	552	4	4333650270	SetWebSessionId - webSessionId=unknownTrackingId.
+2014-06-08	00:51:17		1402181469	628	4	4333651826	OnLoadViewSite - url=https://lp.soe.com/eq2/live/?t=43336, viewName=Main, pageLoadTime=4857 ms, loadResult=Success.
+2014-06-08	00:51:17		1402181469	629	4	4333651826	Main screen loaded, url=https://lp.soe.com/eq2/live/?t=43336, pageLoadTimeMs=4857.
+2014-06-08	00:51:17		1402181469	632	4	4333651826	Will display the main view.
+2014-06-08	00:51:17		1402181469	633	4	4333651827	[GameLauncherClient] State transition request to DisplayingMainScreen.
+2014-06-08	00:51:17		1402181469	634	4	4333651842	TransitionState - oldState=LoadingMainScreen, newState=DisplayingMainScreen, totalTimeInStateMs=4868.
+2014-06-08	00:51:17		1402181469	635	4	4333651842	[GameLauncherClient, DisplayingMainScreen] State - OnEnter(Begin)
+2014-06-08	00:51:17		1402181469	638	4	4333651848	Destroying the application updater api.
+2014-06-08	00:51:17		1402181469	639	4	4333651848	Destroying the http manager.
+2014-06-08	00:51:17		1402181469	640	4	4333651848	Destroying the native patcher.
+2014-06-08	00:51:17		1402181469	641	4	4333651848	Destroying basic splash screen.
+2014-06-08	00:51:17		1402181469	645	4	4333651848	Main screen displayed, url=https://lp.soe.com/eq2/live/?t=43336, pageLoadTimeMs=4879.
+2014-06-08	00:51:17		1402181469	646	4	4333651849	[GameLauncherClient, DisplayingMainScreen] State - OnEnter(End), totalTimeMs=7.
+2014-06-08	00:51:49		1402181469	660	4	4333683890	Engine viewport closed by user, will request shutdown.
+2014-06-08	00:51:49		1402181469	661	4	4333683890	RequestShutdown - Shutdown requested, reason=UserExit.
+2014-06-08	00:51:49		1402181469	664	4	4333683905	[GameLauncherClient] Stopping state machine.
+2014-06-08	00:51:49		1402181469	665	4	4333683905	GameLauncherClient - state machine finished.
+2014-06-08	00:51:49		1402181469	674	4	4333683906	Run - ending the run.
+2014-06-08	00:51:49		1402181469	675	4	4333683906	Shutting down.
+2014-06-08	00:51:49		1402181469	676	4	4333683906	ProcessSyncEvent GameIsReady destroyed.
+2014-06-08	00:51:49		1402181469	677	4	4333683906	Destroying the http manager.
+2014-06-08	00:51:49		1402181469	678	4	4333683906	Destroying the application updater api.
+2014-06-08	00:51:49		1402181469	679	4	4333683906	Disabling command processing.
+2014-06-08	00:51:49		1402181469	680	4	4333683906	Shutting down browser patcher.
+2014-06-08	00:51:49		1402181469	681	4	4333683906	Destroying the browser patcher.
+2014-06-08	00:51:49		1402181469	682	4	4333683906	Destroying the native patcher.
+2014-06-08	00:51:49		1402181469	683	4	4333683906	Destroying patcher object factory.
+2014-06-08	00:51:49		1402181469	684	4	4333683906	Destroying auxiliary views.
+2014-06-08	00:51:49		1402181469	685	4	4333683906	Destroying basic splash screen.
+2014-06-08	00:51:49		1402181469	686	4	4333683906	Shutting down engine.
+2014-06-08	00:51:49		1402181469	688	4	4333683906	Destroying main view.
+2014-06-08	00:51:49		1402181469	691	4	4333683912	Destroying web core.
+2014-06-08	00:51:49		1402181469	692	4	4333683912	Shutting down log service.

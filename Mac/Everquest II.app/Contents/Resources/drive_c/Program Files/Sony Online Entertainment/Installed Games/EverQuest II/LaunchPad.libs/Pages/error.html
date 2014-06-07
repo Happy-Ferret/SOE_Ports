@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Sony Online Entertainment - LaunchPad Issue</title>
+<link rel="stylesheet" type="text/css" href="css/error.css" />
+
+<script type="text/javascript">
+
+function frameClose() 
+{
+	console.log('Close window event');
+	window.external.appClose();
+}
+
+function frameMinimize()
+{
+	console.log('Minimize window event');
+	window.external.appMinimize();
+}
+
+</script>
+
+</head>
+<body>
+
+<div id="lp">
+
+	<div id="lpFrameControls">
+		<a id="lpFrameClose" class="lpFrameControl" onclick="javascript:frameClose()"></a>
+		<a id="lpFrameMinimize" class="lpFrameControl"  onclick="javascript:frameMinimize()"></a>
+	</div>
+
+	<div id="lpContent">
+
+		<h1>It's not your fault!</h1>
+
+		<p>It appears that we are having internal server issues or other problems that are preventing the LaunchPad from loading at this time.  We really do apologize and hope to have the problem corrected shortly.</p>
+
+		<p>If the problem persists, please contact <a href="http://help.station.sony.com/app/answers/detail/a_id/28939/" target="_blank">Customer Support</a>.</p>
+
+	</div>
+
+</div>
+
+</body>
+</html>

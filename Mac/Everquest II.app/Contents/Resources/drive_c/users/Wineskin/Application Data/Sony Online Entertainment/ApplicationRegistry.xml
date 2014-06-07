@@ -1,0 +1,11 @@
+<ApplicationRegistry>
+	<ApplicationRegistry Version="1" CreateTime="2014-06-08T00:51:09Z" UpdateTime="2014-06-08T00:51:09Z" UpdateAppGuid="{805ACF13-47BC-4cc3-878F-771D53BD2C59}"/>
+	<Applications IsList="1">
+		<Application Guid="{805ACF13-47BC-4cc3-878F-771D53BD2C59}" Environment="live" Path="C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II" Name="LaunchPad Shell" Version="5.2.5.24" BuildTime="Mar  4 2013 18:31:57" Locale="en_US" CreateTime="2014-06-08T00:51:09Z" UpdateTime="2014-06-08T00:51:09Z" UpdateAppGuid="{805ACF13-47BC-4cc3-878F-771D53BD2C59}">
+			<InstallInfo Path="C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II" Source="" SourceKey="" SourceUrl="" MarketingToken="">
+				<Params IsList="1"/>
+			</InstallInfo>
+		</Application>
+	</Applications>
+</ApplicationRegistry>
+

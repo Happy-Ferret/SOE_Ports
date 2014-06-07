@@ -1,0 +1,5 @@
+2014-06-08	00:51:08		1402181451	169	4	4333643027	BaseApi destructed (ExternalLoggingUdp_1)
+2014-06-08	00:51:09		1402181469	3	4	4333643400	BaseApi constructed (ExternalLoggingUdp_1) defaultPort=0
+2014-06-08	00:51:09		1402181469	67	4	4333643903	BaseApi connect request (ExternalLoggingUdp_1) address=69.174.203.134:20061 timeout=10000 autoReconnect=0
+2014-06-08	00:51:09		1402181469	68	4	4333643904	BaseUdpManager service started (ExternalLoggingUdp_1) threading=1 compression=0
+2014-06-08	00:51:09		1402181469	69	4	4333644270	BaseApi connection completed (ExternalLoggingUdp_1) address=69.174.203.134:20061

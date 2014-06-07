@@ -1,0 +1,576 @@
+/* GLOBAL CSS RESET start */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+address, caption, cite, code, dfn, th, var {
+	font-style: normal;
+	font-weight: normal;
+}
+ol, ul {
+	list-style: none;
+}
+caption, th {
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+q:before, q:after {
+	content: '';
+}
+abbr, acronym {
+	border: 0;
+}
+/*a {
+	text-decoration: none;
+}*/
+/* GLOBAL CSS RESET end */
+
+
+/* GLOBAL HTML OVERWRITES start */
+body {
+	overflow: hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: black;
+	background-color: black;
+}
+a, a:active, a:hover, a:focus, a:visited {
+	cursor: pointer;
+	text-decoration: none;
+}
+input, textarea, select {
+	/*-webkit-appearance: none;*/
+	outline: none;
+	padding: 0.3em 0.5em;
+	font-size: 15px;
+	border: none;
+	-webkit-border-radius: 0.30em;
+}
+input[type="text"], input[type="password"] {
+	width: 283px;
+}
+input[type="checkbox"], input[type="radio"] {
+	display: inline-block;
+	font-size: 1em;
+	margin: 0.1em 0.25em -0.1em 0;
+	padding: 0;
+	width: 1em;
+	height: 1em;
+	vertical-align: text-top;
+}
+input[type="radio"] {
+	-webkit-border-radius: 2em;
+}
+select {
+	-webkit-appearance: button;
+	padding-right: 25px;
+	font-size: 11px;
+}
+textarea {
+	resize: none;
+}
+/* GLOBAL HTML OVERWRITES end */
+
+
+/* GLOBAL USE STYLES start */
+.clr {
+	clear: both;
+	height: 0;
+	line-height: 0;
+	font-size: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+.labels {
+	display: none;
+}
+.ui-icon {
+	text-indent: -99999px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	width: 16px;
+	height: 16px;
+	background: url("../../css/img/ui-icons.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+	display: inline-block;
+}
+.ui-icon.ui-icon-close {
+	background-position: -80px -128px;
+}
+.ui-icon.ui-icon-close:hover { /* .ui-icon-circle-close */
+	background-position: -32px -192px;
+}
+/* GLOBAL USE STYLES end */
+
+
+/* COMPONENTS start */
+
+/* COMPONENTS: OVERLAYS start */
+.overlay {
+	width: 526px;
+	height: 360px;
+	padding: 25px 21px 23px 21px;
+	margin: -17px 0 0 0;
+	background: url("images/modal-reg-bg.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+}
+.overlay h1 {
+	font-size: 24px;
+	margin: 2px auto 10px auto;
+	display: table;
+}
+.overlay h2 {
+	font-size: 13px;
+	font-weight: bold;
+	margin: 8px 9px 4px 9px;
+}
+.overlay .content {
+	font-size: 12px;
+	padding: 8px 9px 8px 9px;
+	min-height: 90px;
+}
+.overlay .buttonset {
+	text-align: center;
+	margin: 8px 12px 0 12px;
+}
+.overlay .buttonset input {
+	margin: 0 5px;
+	font-size: 012px;
+}
+.overlay label {
+	font-size: 15px;
+	margin: 0 0 1px 0;
+	display: inline-block;
+}
+.overlay .close {
+	right: 0;
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	display: block;
+	margin: -5px 7px 0 0;
+}
+.overlay .close:hover {
+	background-position: 0 -17px;
+}
+/* COMPONENTS end */
+
+
+/* GLOBAL WRAPPER STYLES start */
+#lp {
+	margin: 0 auto;
+	width: 883px;
+}
+#lpFrameControls {
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 9999;
+}
+#lpFrameControls .lpFrameControl {
+	width: 31px;
+	height: 33px;
+	float: right;
+	display: block;
+}
+
+#lp #lpHeader {
+	height: 120px;
+	position: relative;
+	z-index: 1;
+}
+#lp #lpHeader li, #lp #lpFooter li {
+	display: inline-block;
+}
+#lp #lpHeader #lpHeaderLeft,
+#lp #lpHeader #lpHeaderRight {
+	position: absolute;
+	width: 300px;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea {
+	vertical-align: bottom;
+	display: table-cell;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea #lpGameVersionText {
+	display: none;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea span {
+	padding: 0 5px 0 0;
+	display: inline-block;
+}
+#lp #lpHeader #lpHeaderLeft #lpProviderLogo {
+	width: 115px;
+	height: 18px;
+	background: url("../../css/img/soe-logo.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+}
+#lp #lpHeader #lpHeaderCenter {
+	width: 310px;
+}
+#lp #lpHeader #lpHeaderRight {
+	right: 0;
+	display: table;
+}
+
+#lp #lpContent {
+	height: 429px;
+	position: relative;
+	z-index: 0;
+}
+#lp .overlays {
+	width: 100%;
+	position: absolute;
+	z-index: 3;
+}
+#lp #lpContent #exposeMask {
+	width: 883px !important;
+	height: 100% !important;
+	position: absolute;
+	background-color: black;
+	opacity: 1;
+	z-index: 2 !important;
+	display: none;
+}
+#lpContent h2.lpContentHeader {
+	font-size: 19px;
+	font-weight: bold;
+	line-height: 31px;
+	margin: 8px 5px 0 5px;
+}
+
+#lp #lpFooter {
+	height: 35px;
+}
+/* GLOBAL WRAPPER STYLES end */
+
+#lpLoginPanelContainer {
+	width: 400px;
+	text-align: center;
+}
+#lpLoginPanelContainer .ui-state-error {
+	color: #d91f1f;
+	background: url("../../css/img/reg-state-failed.png?h=658e8dc0") no-repeat scroll 5px 1px #ebd6d5;
+	font-size: 13px;
+	display: none;
+	padding: 4px 8px 4px 35px;
+	margin: 0 15px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	text-align: left;
+}
+#lpLoginPanelContainer .ui-state-error a {
+	color: #d91f1f;
+	text-decoration: underline;
+}
+#lpLoginPanelContainer #lpUsername {
+	margin: 0 0 15px 0;
+}
+#lpLoginPanelContainer #lpRememberBox {
+	margin: 3px 0 0 2px;
+}
+#lpLoginPanelContainer #lpRememberBox label {
+	font-size: 11px;
+}
+#lpLoginPanelContainer .buttonGroup {
+	text-align: center;
+	margin: 10px 0 0 0;
+}
+#lpLoginPanelContainer .buttonGroup .btn {
+	margin: 5px 0;
+}
+#lpLoginPanelContainer #loginForm {
+	margin: 0 auto;
+}
+#lpLoginPanelContainer .lp-login-group {
+	margin: 5px auto;
+	text-align: left;
+	width: 312px;
+}
+#lpLoginPanelContainer .buttonGroup {
+	text-align: center;
+}
+#lpLoginPanelContainer ul#forgots {
+}
+#lpLoginPanelContainer ul#forgots li {
+	display: inline-block;
+	margin: 0 3px;
+	font-size: 12px;
+}
+
+.lp-loading-overlay {
+	display: block;
+}
+.lp-loading-overlay div {
+	text-align: center;
+	margin-top: 135px;
+}
+.lp-loading-icon {
+	width: 16px;
+	height: 16px;
+	background: url("../../css/img/waiting-loading.gif?h=d04d8ccd") no-repeat scroll 0 0 transparent;
+	display: inline-block;
+	margin: 4px 8px;
+}
+.lp-loading-msg {
+	display: block;
+}
+
+/* GLOBAL HTML OVERWRITES start */
+body {
+	background-color: #3c3c3b;
+	color: #f0f2f6;
+}
+a, a:active, a:hover, a:focus, a:visited {
+	color: #f9cf6a;
+}
+a:active, a:hover, a:focus {
+	color: white;
+}
+input, textarea, select {
+	border: none;
+	background: no-repeat scroll right 0 #f4f3e4;
+	background-image: -moz-linear-gradient(top,  #725d2a 1%, #e1ddb7 15%, #f4f3e4 79%, white 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#725d2a), color-stop(15%,#e1ddb7), color-stop(79%,#f4f3e4), color-stop(100%,white));
+	background-image: -webkit-linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+	background-image: -o-linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+	background-image: -ms-linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+	background-image: linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+}
+select {
+	background-image: url("images/select-object.png?h=658e8dc0"), -moz-linear-gradient(top,  #725d2a 1%, #e1ddb7 15%, #f4f3e4 79%, white 100%);
+	background-image: url("images/select-object.png?h=658e8dc0"), -webkit-gradient(linear, left top, left bottom, color-stop(1%,#725d2a), color-stop(15%,#e1ddb7), color-stop(79%,#f4f3e4), color-stop(100%,white));
+	background-image: url("images/select-object.png?h=658e8dc0"), -webkit-linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+	background-image: url("images/select-object.png?h=658e8dc0"), -o-linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+	background-image: url("images/select-object.png?h=658e8dc0"), -ms-linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+	background-image: url("images/select-object.png?h=658e8dc0"), linear-gradient(top,  #725d2a 1%,#e1ddb7 15%,#f4f3e4 79%,white 100%);
+}
+/* GLOBAL HTML OVERWRITES end */
+
+
+/* GLOBAL USE STYLES start */
+.ui-icon {
+	background: url("images/ui-icons.png?h=658e8dc0") repeat-x scroll 0 0 transparent;
+}
+/* GLOBAL USE STYLES end */
+
+
+/* COMPONENTS start */
+
+/* COMPONENTS: OVERLAYS start */
+.overlay {
+	width: 526px;
+	height: 360px;
+	padding: 25px 21px 23px 21px;
+	margin: -17px 0 0 0;
+	background: url("images/modal-reg-bg.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+}
+.overlay h1 {
+	color: #faf6d8;
+	text-shadow: black 1px 2px 1px;
+}
+.overlay .close {
+	margin: 6px 25px 0 0;
+	background: url("images/close-button.jpg?h=93bd3367") no-repeat scroll 0 0 transparent;
+}
+/* COMPONENTS end */
+
+
+/* GLOBAL WRAPPER STYLES start */
+#lp {
+	background: url("images/wrapper/content-bg.jpg") no-repeat scroll 0 0 transparent;
+	padding: 42px 16px 21px 16px;
+}
+#lpFrameControls {
+	top: -25px;
+	right: 0px;
+}
+#lpFrameControls .lpFrameControl {
+	background: url("images/wrapper/window-controls.png?h=658e8dc0") repeat-x scroll 0 0 transparent;
+	width: 31px;
+	height: 33px;
+}
+#lpFrameControls #lpFrameMinimize.lpFrameControl {
+	background: url("images/wrapper/window-controls.png?h=658e8dc0") repeat-x scroll 0 0 transparent;
+	width: 17px;
+	height: 17px;
+	margin-right: 7px;
+}
+#lpFrameControls #lpFrameMinimize.lpFrameControl:hover {
+	background-position: 0 -25px;
+}
+#lpFrameControls #lpFrameClose.lpFrameControl {
+	background: url("images/wrapper/window-controls.png?h=658e8dc0") repeat-x scroll 17px 0 transparent;
+	width: 17px;
+	height: 17px;
+}
+#lpFrameControls #lpFrameClose.lpFrameControl:hover {
+	background-position: 17px -25px;
+}
+
+#lp #lpHeader {
+	background: url("images/wrapper/header.png") no-repeat center bottom;
+}
+#lp #lpHeader #lpHeaderLeft,
+#lp #lpHeader #lpHeaderRight {
+	margin: -75px 0 0 15px;
+}
+
+#lp #lpHeader #lpHeaderLeft {
+
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea {
+	font-weight: bold;
+	height: 68px;
+}
+#lp #lpHeader #lpHeaderLeft #lpGameVersionArea #lpGameVersionText {
+	color: #b9af8d;
+}
+#lp #lpHeader #lpHeaderLeft #lpProviderLogo {
+	margin: 95px 0 0 0;
+}
+#lp #lpHeader #lpHeaderRight {
+	margin: -75px 65px 0 0;
+}
+
+#lp #lpFooter {
+	height: 53px;
+	background: url("images/wrapper/footer-bg.jpg?h=48e7c69b") no-repeat scroll 0 0 transparent;
+}
+#lp #lpFooter #lpFooterNav {
+	color: #f9cf6a;
+	font-weight: bold;
+	padding: 14px 0 0 0;
+}
+#lp #lpFooter #lpFooterNav li {
+	padding-left: 5px;
+}
+#lp #lpFooter #lpFooterNav a#lpMarketing {
+	padding-right: 32px;
+	background: url("images/wrapper/letter.png?h=658e8dc0") no-repeat scroll right 4px transparent;
+}
+
+#lp #lpFooter #lpLangSelector {
+	margin-top: -21px;
+}
+#lp #lpFooter #lpLangSelector .tooltipMenuOpener {
+	width: 107px;
+}
+#lp #lpFooter #lpLangSelector .tooltipMenuOpener li {
+	height: 25px;
+	background: url("images/wrapper/button-language.png?h=658e8dc0") no-repeat scroll 0 0 transparent;
+}
+#lp #lpFooter #lpLangSelector .tooltipMenuOpener li:hover {
+	padding-top: 1px;
+	background: url("images/wrapper/button-language.png?h=658e8dc0") no-repeat scroll 0 -25px transparent;
+}
+#lp #lpFooter #lpLangSelector .tooltipMenuOpener a {
+	text-shadow: black 0px 1px 1px;
+}
+#lp #lpRibbon {
+	display: table;
+	max-width: 883px;
+	height: 40px;
+	margin: auto;
+	line-height: 40px;
+}
+/* GLOBAL WRAPPER STYLES end */
+
+
+/* ALL THE REST start */
+#lp #lpContent {
+	background: url("images/mask-bg.jpg?h=eb8a5859") no-repeat 0 0 transparent;
+}
+#lpContent h2.lpContentHeader {
+	color: #faf6d8;
+	font-style: italic;
+	text-align: center;
+}
+#lpContent h2.lpContentHeader .left {
+	background: url("images/content-header-bg.png?h=658e8dc0") no-repeat scroll 0 14px transparent;
+	padding: 0 0 0 32px;
+	display: block;
+	height: 30px;
+	float: left;
+}
+#lpContent h2.lpContentHeader .center {
+	background: url("images/content-header-bg.png?h=658e8dc0") no-repeat scroll -32px 14px transparent;
+	display: block;
+	width: 217px;
+	height: 30px;
+	float: left;
+}
+#lpContent h2.lpContentHeader .right {
+	background: url("images/content-header-bg.png?h=658e8dc0") no-repeat scroll right 14px transparent;
+	width: 32px;
+	display: block;
+	height: 30px;
+	float: left;
+}
+#lp #lpContent #exposeMask.notAuthed {
+	background: url("images/mask-bg.jpg?h=eb8a5859") no-repeat 0 0 transparent;
+}
+#lp #lpContent #exposeMask.authed {
+	opacity: 0.6 !important;
+}
+
+#lpContentArea {
+}
+
+#lp #lpLoginPanelContainer {
+	background: url("images/modal-login-bg.png?h=658e8dc0") repeat scroll 0 0 transparent;
+}
+#lp #lpLoginPanelContainer label {
+	color: #faf6d8;
+}
+#lpLoginPanelContainer .buttonGroup a.btn#lpLoginSubmit,
+#lpLoginPanelContainer .buttonGroup a.btn#lpLoginSubmit * {
+	line-height: 60px;
+	height: 58px;
+}
+#lpLoginPanelContainer .buttonGroup a.btn#lpLoginSubmit .left {
+	padding: 0 0 0 25px;
+	background: url("images/btn-login.png?h=658e8dc0") no-repeat 0 0 transparent;
+	text-transform: uppercase;
+	font-size: 28px;
+	color: white;
+	font-weight: bold;
+	text-shadow: black; -1px 1px 0px;
+}
+#lpLoginPanelContainer .buttonGroup a.btn#lpLoginSubmit .right {
+	width: 78px;
+	background: url("images/btn-login.png?h=658e8dc0") no-repeat right 0 transparent;
+}
+#lpLoginPanelContainer .buttonGroup a.btn#lpLoginSubmit:hover .left {
+	background-position: 0 -60px;
+}
+#lpLoginPanelContainer .buttonGroup a.btn#lpLoginSubmit:hover .right {
+	background-position: right -60px;
+}
+#lp #lpLoginPanelContainer .buttonGroup #loginCreateButton {
+	background: url("images/create-account-icon.png?h=658e8dc0") no-repeat scroll 0 3px transparent;
+	border: none;
+	padding-left: 25px;
+	height: 25px;
+	font-size: 19px;
+	line-height: 25px;
+	text-shadow: black 0px 1px 1px;
+	text-decoration: underline;
+}
+#lp #lpLoginPanelContainer .buttonGroup #loginCreateButton * {
+	text-decoration: underline;
+}
+#lp #lpLoginPanelContainer ul#forgots li {
+	color: #F9CF6A;
+}
+#lp #lpLoginPanelContainer ul#forgots li a {
+	text-decoration: underline;
+}

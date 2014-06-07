@@ -1,0 +1,24 @@
+{
+   "download": {
+      "directory_upgrade": true
+   },
+   "intl": {
+      "accept_languages": "en-US"
+   },
+   "ntp": {
+      "pref_version": 1,
+      "shown_sections": 29,
+      "tips_cache_update": ""
+   },
+   "profile": {
+      "exited_cleanly": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "webkit": {
+      "webprefs": {
+         "uses_universal_detector": true
+      }
+   }
+}

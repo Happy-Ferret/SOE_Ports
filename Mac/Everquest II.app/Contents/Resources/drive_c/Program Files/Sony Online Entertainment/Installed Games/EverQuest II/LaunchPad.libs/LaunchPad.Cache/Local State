@@ -1,0 +1,31 @@
+{
+   "": "",
+   "StartupDNSPrefetchList": [ "ajax.googleapis.com", "assets-cdn.soe.com", "assets.soe.com", "clients2.google.com", "lp.soe.com", "smetrics.soe.com", "tags.tiqcdn.com", "tealium.hs.llnwd.net", "www.google.com" ],
+   "intl": {
+      "app_locale": "en-US"
+   },
+   "uninstall_metrics": {
+      "launch_count": "1"
+   },
+   "user_experience_metrics": {
+      "session_id": 0,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 0,
+         "debugger_not_present": 0,
+         "debugger_present": 0,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1402181424",
+         "launch_count": 1,
+         "launch_time_sec": "1402181424",
+         "page_load_count": 0,
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1323088304",
+         "stats_version": "1, 6, 3, 0-devel"
+      }
+   }
+}

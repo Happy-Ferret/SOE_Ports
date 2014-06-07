@@ -1,0 +1,4 @@
+2014-06-08	00:51:08		1402181451	165	4	4333643026	Shutdown
+2014-06-08	00:51:15		1402181469	531	4	4333650189	SetViewportDragMode - dragMode=1, pixelHeight=120.
+2014-06-08	00:51:49		1402181469	659	4	4333683889	Received windows quit notification, sending viewport close notification.
+2014-06-08	00:51:49		1402181469	687	4	4333683906	Shutdown

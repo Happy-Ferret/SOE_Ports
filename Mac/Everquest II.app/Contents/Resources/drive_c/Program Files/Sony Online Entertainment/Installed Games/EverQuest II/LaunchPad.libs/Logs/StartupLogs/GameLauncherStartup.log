@@ -1,0 +1,48 @@
+2014-06-08	00:51:08		1402181468	1	4	4333643190	IniFilepath=LaunchPad.ini
+2014-06-08	00:51:08		1402181468	2	4	4333643190	InternalIniFilepath=LaunchPad-internal.ini
+2014-06-08	00:51:08		1402181468	3	4	4333643190	UserIniFilepath=LaunchPad-user.ini
+2014-06-08	00:51:08		1402181468	4	4	4333643191	LoadLegacyIniValues - Setting legacy ini entry, legacyEntry=width, section=Display, key=WindowWidth, value=917.
+2014-06-08	00:51:08		1402181468	5	4	4333643191	LoadLegacyIniValues - Setting legacy ini entry, legacyEntry=height, section=Display, key=WindowHeight, value=700.
+2014-06-08	00:51:08		1402181468	6	4	4333643191	LoadLegacyIniValues - Setting legacy ini entry, legacyEntry=id, section=Settings, key=GameCode, value=eq2.
+2014-06-08	00:51:08		1402181468	7	4	4333643191	LoadConfigValues - launchUrl is empty, will create.
+2014-06-08	00:51:08		1402181468	8	4	4333643191	LoadConfigValues - Created browser url=https://lp.soe.com/eq2/live/?t=43336.
+2014-06-08	00:51:08		1402181468	9	4	4333643191	LoadConfigValues - SelfDigestUrl is empty, will create.
+2014-06-08	00:51:08		1402181468	10	4	4333643191	SelfDigestUrl=http://manifest.patch.station.sony.com/patch/sha/manifest/lp4/live/gamelauncher/eq2/live.sha.soe
+2014-06-08	00:51:08		1402181468	11	4	4333643191	LoadConfigValues - launchPadVersionUrl is empty, will create.
+2014-06-08	00:51:08		1402181468	12	4	4333643191	SelfVersionUrl=http://lp.soe.com/static/lp/LaunchPadShellVersion.txt
+2014-06-08	00:51:08		1402181468	13	4	4333643191	LoadConfigValues - UpdaterDigestUrl is empty, will create.
+2014-06-08	00:51:08		1402181468	14	4	4333643191	UpdaterDigestUrl=http://manifest.patch.station.sony.com/patch/sha/manifest/lp4/live/applicationupdater.sha.soe
+2014-06-08	00:51:08		1402181468	15	4	4333643191	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:08		1402181468	16	4	4333643191	LoadConfigValues - patcherDownloadUrl is empty, will create.
+2014-06-08	00:51:08		1402181468	17	4	4333643191	PatcherDigestUrl=http://lp.soe.com/static/plugin/npsoeact.dll.zs
+2014-06-08	00:51:08		1402181468	18	4	4333643191	LoadConfigValues - patcherVersionUrl is empty, will create.
+2014-06-08	00:51:08		1402181468	19	4	4333643191	PatcherVersionUrl=http://lp.soe.com/static/plugin/ActionVersion.txt
+2014-06-08	00:51:08		1402181468	20	4	4333643191	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:08		1402181468	21	4	4333643191	PatcherFolder=C:/users/blinx123/Application Data/Sony Online Entertainment
+2014-06-08	00:51:08		1402181468	22	4	4333643191	PatcherFilename=npsoeact.dll
+2014-06-08	00:51:08		1402181468	23	4	4333643191	Config Values:
+2014-06-08	00:51:08		1402181468	24	4	4333643191	commandLine= Logging:DeleteLogsDirectoryOnStartup=0 Patching:EnableSelfPatching=0 Patching:Address=
+2014-06-08	00:51:08		1402181468	25	4	4333643191	Settings [Settings]
+2014-06-08	00:51:08		1402181468	26	4	4333643192	appName=EverQuest II
+2014-06-08	00:51:08		1402181468	27	4	4333643192	id=eq2
+2014-06-08	00:51:08		1402181468	28	4	4333643192	width=917
+2014-06-08	00:51:08		1402181468	29	4	4333643192	height=700
+2014-06-08	00:51:08		1402181468	30	4	4333643192	GameCode=eq2
+2014-06-08	00:51:08		1402181468	31	4	4333643192	
+[Display]
+2014-06-08	00:51:08		1402181468	32	4	4333643192	WindowWidth=917
+2014-06-08	00:51:08		1402181468	33	4	4333643192	WindowHeight=700
+2014-06-08	00:51:08		1402181468	34	4	4333643192	
+
+2014-06-08	00:51:08		1402181468	35	4	4333643192	Override Settings [Logging]
+2014-06-08	00:51:08		1402181468	36	4	4333643192	DeleteLogsDirectoryOnStartup=0
+2014-06-08	00:51:08		1402181468	37	4	4333643192	
+[Patching]
+2014-06-08	00:51:08		1402181468	38	4	4333643192	EnableSelfPatching=0
+2014-06-08	00:51:08		1402181468	39	4	4333643192	Address=
+2014-06-08	00:51:08		1402181468	40	4	4333643192	
+
+2014-06-08	00:51:08		1402181468	41	4	4333643192	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:09		1402181468	42	3	4333643398	SF - Failed to retrieve the hd descriptions .
+2014-06-08	00:51:09		1402181468	43	4	4333643398	GetUserDataFolder - windows version major=5, minor=1.
+2014-06-08	00:51:09		1402181468	44	4	4333643399	GetUserDataFolder - windows version major=5, minor=1.

@@ -1,0 +1,17 @@
+2014-06-08	00:50:51		1402181451	3	5	4333625523	Event (1) - Arg1: 2
+2014-06-08	00:50:51		1402181451	4	4	4333625524	Session - clientGuid=yhbn8Vumkg8AmBBa5fYS, sessionId=1402181453, launcherVersion=5.1.5.4, gameCode=eq2, clientAddress=192.168.178.31, clientHostname=marks-mac-pro, processName=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.exe, osName=Windows, osVersion=5.1, diskSpaceTotal=953541, diskSpaceAvailable=649947, systemMemoryTotal=26306756608, systemMemoryAvailable=26306674694.
+2014-06-08	00:50:51		1402181451	6	5	4333625524	Event (2) - Arg1: 12
+2014-06-08	00:50:51		1402181451	123	5	4333625581	Event (3) - Arg1: 69
+2014-06-08	00:50:51		1402181451	129	5	4333625581	Event (12) - Arg1: 69
+2014-06-08	00:50:51		1402181451	144	5	4333626334	Event (4) - Arg1: 822
+2014-06-08	00:51:08		1402181451	152	5	4333643018	Event (18) - Arg1: SelfPatchRestart
+2014-06-08	00:51:08		1402181451	154	5	4333643018	Event (5) - Arg1: 16684, Arg2: 17506
+2014-06-08	00:51:08		1402181451	157	5	4333643025	Event (19) - Arg1: 17
+2014-06-08	00:51:09		1402181469	4	4	4333643400	Initialize - threadCount=1, compressionLevel=1.
+2014-06-08	00:51:09		1402181469	5	4	4333643401	Successfully added 8 server address entries to the list.
+2014-06-08	00:51:09		1402181469	6	4	4333643401	Initial connection to address lvs-gt-els02.station.sony.com:20061.
+2014-06-08	00:51:09		1402181469	8	4	4333643401	Session - uf=yhbn8Vumkg8AmBBa5fYS, sf=PFN5c3RlbUZpbmdlcnByaW50IFZpZGVvQ2FyZElkPSJkeWg1NUllRWlmcDJaN3oyaTRaQ0JxR3U2ekFHRUJCVXNwZHZPeVM0ZlJzPSIgTmV0d29ya0NhcmRJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iIEhhcmRyaXZlSWQ9IiIgQ29tcHV0ZXJOYW1lPSJ6V21EN2JGUkE1c3FINVhKNHJ6dStxRGorOXRsbno1NXpoc0M1ck5rM0UwPSI-PE5ldHdvcmtBZGFwdGVycyBJc0xpc3Q9IjEiPjxOZXR3b3JrQWRhcHRlciBJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iLz48L05ldHdvcmtBZGFwdGVycz48SGFyZERyaXZlcyBJc0xpc3Q9IjEiLz48L1N5c3RlbUZpbmdlcnByaW50Pg==, sessionId=1402181472, launcherVersion=5.2.5.24, gameCode=eq2, clientHostname=marks-mac-pro, processName=C:/Program Files/Sony Online Entertainment/Installed Games/EverQuest II/LaunchPad.exe, osName=Windows, osVersion=5.1, diskSpaceTotal=953541, diskSpaceAvailable=649931, systemMemoryTotal=0, systemMemoryAvailable=13862731780.
+2014-06-08	00:51:09		1402181469	66	4	4333643903	OnResolveName - address=69.174.203.134:20061.
+2014-06-08	00:51:09		1402181469	70	4	4333644270	OnConnect - Connected.
+2014-06-08	00:51:15		1402181469	553	4	4333650270	LogWebSession - uf=yhbn8Vumkg8AmBBa5fYS, sf=PFN5c3RlbUZpbmdlcnByaW50IFZpZGVvQ2FyZElkPSJkeWg1NUllRWlmcDJaN3oyaTRaQ0JxR3U2ekFHRUJCVXNwZHZPeVM0ZlJzPSIgTmV0d29ya0NhcmRJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iIEhhcmRyaXZlSWQ9IiIgQ29tcHV0ZXJOYW1lPSJ6V21EN2JGUkE1c3FINVhKNHJ6dStxRGorOXRsbno1NXpoc0M1ck5rM0UwPSI-PE5ldHdvcmtBZGFwdGVycyBJc0xpc3Q9IjEiPjxOZXR3b3JrQWRhcHRlciBJZD0ieXVEN3ZFajVYWWwyV0ZJTFJYS1VhZWE1czYyc092ZSs2eG1VRXE1YWVlbz0iLz48L05ldHdvcmtBZGFwdGVycz48SGFyZERyaXZlcyBJc0xpc3Q9IjEiLz48L1N5c3RlbUZpbmdlcnByaW50Pg==, clientSessionId=1402181472, webSessionId=unknownTrackingId, timestamp=1402181475
+2014-06-08	00:51:38		1402181469	652	4	4333673389	LogStatistics - (eventCount=64, logCount=9) totalRawPacketsProcessed=24, totalAggregatePacketsCreated=1, totalAggregatePacketsCompressed=1, totalRawBytesProcessed=18300, totalCompressedBytes=2135, compressRatio=11.67 %, compressionSpeed=0 bps
